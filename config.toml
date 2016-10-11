@@ -1,3 +1,4 @@
-baseurl = "http://replace-this-with-your-hugo-site.com/"
-title = "My New Hugo Site"
-languageCode = "en-us"
+baseurl = "http://wwww.olivierfredon.com"
+title = "Olivier Fredon"
+languageCode = "fr"
+theme = "curiosity"
