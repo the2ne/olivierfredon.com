@@ -1,0 +1,7 @@
+<header>
+    <h1>
+        {{ if .IsPage }}<a href="{{ .Site.BaseURL }}">{{ end }}
+            {{ .Site.Title }}
+        {{ if .IsPage }}</a>{{ end }}
+    </h1>
+</header>

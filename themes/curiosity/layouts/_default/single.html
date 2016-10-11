@@ -1,0 +1,13 @@
+{{ partial "head" . }}
+
+<body>
+    {{ partial "header" . }}
+    {{ partial "navigation" . }}
+        <article>
+            <h1>{{ .Title }}</h1>
+            {{ .Content }}
+        </article>
+    {{ partial "footer" . }}
+    {{ partial "js" . }}
+</body>
+</html>

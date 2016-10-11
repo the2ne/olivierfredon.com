@@ -1,4 +1,8 @@
 baseurl = "http://wwww.olivierfredon.com"
-title = "Olivier Fredon"
+title = "Olivier Fredon - Concepteur Web"
 languageCode = "fr"
 theme = "curiosity"
+
+[params]
+    author = "Olivier Fredon"
+    description = "Olivier Fredon - Concepteur Web : Web & UI Design, intégration, développement Front-end, gestion de projet"
