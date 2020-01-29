@@ -1,7 +1,7 @@
 {
   "name": "olivierfredon.com",
-  "version": "0.0.0",
-  "description": "Sass build and others",
+  "version": "1.0.2",
+  "description": "First real version of my personal website",
   "main": "style.css",
   "scripts": {
 
@@ -11,12 +11,12 @@
     "watch": "nodemon -e scss -x \"npm run sass-build\"",
 
     "sass-test": "stylelint \"sass/**/*.scss\" --syntax scss",
-    "sass-build": "node-sass --indent-width 4 --source-map true --output ./ --output-style compressed ./scss/core.scss ./css/style.css",
+    "sass-build": "node-sass --indent-width 4 --source-map true --output ./ --output-style compressed ./sass/core.scss ./css/style.css",
     "postcss-build": "postcss -c postcss.json",
     "postcss-test": "stylelint style.css"
 
   },
   "author": "Olivier Fredon",
-  "license": "CC-BY-4.0",
+  "license": "UNLICENSED",
   "private": true
 }

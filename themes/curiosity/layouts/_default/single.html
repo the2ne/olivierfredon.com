@@ -1,11 +1,13 @@
 {{ partial "head" . }}
 
-<body>
+<body class="site">
     {{ partial "header" . }}
     {{ partial "navigation" . }}
-        <article>
-            <h1>{{ .Title }}</h1>
-            {{ .Content }}
+        <article class="page">
+            <div class="wrapper">
+                <h1>{{ .Title }}</h1>
+                {{ .Content }}
+            </div>
         </article>
     {{ partial "footer" . }}
     {{ partial "js" . }}
