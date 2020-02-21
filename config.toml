@@ -22,16 +22,4 @@ enableInlineShortcodes = true
 [[menu.main]]
     name = "Contact"
     url = "mailto:contact@olivier.fredon.com"
-    weight = 1
-#[[menu.main]]
-#    name = "Portfolio"
-#    pre = ""
-#    url = "/portfolio/"
-#    identifier = "portfolio"
-#    weight = 2
-#[[menu.main]]
-#    name = "A propos"
-#    pre = ""
-#    url = "/a-propos/"
-#    identifier = "apropos"
-#    weight = 3
+    weight = 2

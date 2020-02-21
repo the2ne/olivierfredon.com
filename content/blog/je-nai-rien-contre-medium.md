@@ -1,6 +1,8 @@
 ---
 title: "Je n'ai rien contre Medium"
 date: 2017-01-05T11:09:28+01:00
+tags: ["www", "startup nation"]
+categories: ["Web"]
 ---
 
 # Je n'ai rien contre Medium

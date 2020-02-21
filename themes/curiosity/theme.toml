@@ -1,7 +1,7 @@
 name = "Curiosity"
 license = "MIT & CC-BY-4.0"
 licenselink = "https://github.com/the2ne/olivierfredon.com/blob/master/LICENSE.md"
-description = "Theme for Olivier Fredon personal website"
+description = "Hugo theme for Olivier Fredon personal website"
 homepage = "http://www.olivierfredon.com"
 tags = ["blog", "portfolio"]
 min_version = 0.17
