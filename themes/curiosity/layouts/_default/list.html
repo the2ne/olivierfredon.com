@@ -1,14 +1,13 @@
 {{ partial "head" . }}
 
-<body class="site">
+<body class="wrapper">
     {{ partial "header" . }}
     {{ partial "navigation" . }}
-    <article class="">
-        {{ .Content }}
+    <article class="content">
+        {{ range .Pages }}
+            {{ .Render "summary"}}
+        {{ end }}
     </article>
-    {{ range .Pages }}
-        {{ .Render "summary"}}
-    {{ end }}
     {{ partial "footer" . }}
 </body>
 </html>

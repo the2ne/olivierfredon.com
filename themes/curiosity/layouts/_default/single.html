@@ -1,9 +1,10 @@
 {{ partial "head" . }}
 
-<body class="site">
+<body class="wrapper blog">
     {{ partial "header" . }}
     {{ partial "navigation" . }}
-        <article class="">
+        <article class="content" itemscope itemtype="http://schema.org/Article">
+            <meta itemprop="name" content="{{ .Title }}">
             {{ .Content }}
         </article>
     {{ partial "footer" . }}
