@@ -3,6 +3,9 @@
 <body class="site">
     {{ partial "header" . }}
     {{ partial "navigation" . }}
+    <article class="">
+        {{ .Content }}
+    </article>
     {{ partial "footer" . }}
 </body>
 </html>

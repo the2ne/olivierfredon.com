@@ -21,15 +21,15 @@ enableInlineShortcodes = true
     url = "/blog/"
     identifier = "blog"
     weight = 1
-[[menu.main]]
-    name = "Portfolio"
-    pre = ""
-    url = "/portfolio/"
-    identifier = "portfolio"
-    weight = 2
-[[menu.main]]
-    name = "A propos"
-    pre = ""
-    url = "/a-propos/"
-    identifier = "apropos"
-    weight = 3
+#[[menu.main]]
+#    name = "Portfolio"
+#    pre = ""
+#    url = "/portfolio/"
+#    identifier = "portfolio"
+#    weight = 2
+#[[menu.main]]
+#    name = "A propos"
+#    pre = ""
+#    url = "/a-propos/"
+#    identifier = "apropos"
+#    weight = 3
