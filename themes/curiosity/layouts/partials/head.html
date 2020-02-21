@@ -6,36 +6,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="author" content="{{ .Site.Params.author }}">
     <meta name="description" content="{{ if .IsHome}}{{ .Site.Params.description }}{{ else }}{{ .Description }}{{ end }}">
-    <title>{{ if .IsHome }}{{ .Title }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}</title>
+    <title>{{ if .IsHome }}{{ .Title }}{{ else }}{{ .Title }} | {{ .Site.Params.author }}{{ end }}</title>
     <base href="{{ .Site.BaseURL }}">
     <link rel="canonical" href="{{ .Permalink }}">
     {{ with .OutputFormats.Get "rss" -}}
         {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
     {{ end -}}
     <link rel="stylesheet" media="screen" href="/css/style.css">
-
     <link href="https://fonts.googleapis.com/css?family=Roboto+Slab&display=swap" rel="stylesheet"> 
 
-    <meta name="twitter:card" content="summary" />
-    <meta name="twitter:site" content="@the2ne" />
-    <meta name="twitter:title" content="Olivier Fredon | the2ne" />
-    <meta name="twitter:description" content="Responsable gommettes et crayola™ Web/UI designer &amp; Chef de projets front-end | #design #ux #mobile #webperf | Motocyclette, grimpette et anisette"
-    />
-    <meta name="twitter:image" content="//www.olivierfredon.com/images/bg-404.jpg" />
-
-    <meta property="og:title" content="Olivier Fredon | the2ne">
-    <meta property="og:type" content="website">
-    <meta property="og:url" content="//www.olivierfredon.com">
-    <meta property="og:image" content="//www.olivierfredon.com/images/bg-404.jpg">
-    <meta property="og:description" content="Responsable gommettes et crayola™ Web/UI designer &amp; Chef de projets front-end | #design #ux #mobile #webperf | Motocyclette, grimpette et anisette">
-    <meta property="og:locale:locale" content="fr_fr">
-
-    <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
-    <link rel="icon" type="image/png" href="/images/favicon-32x32.png" sizes="32x32">
-    <link rel="icon" type="image/png" href="/images/favicon-16x16.png" sizes="16x16">
-    <link rel="manifest" href="/manifest.json">
-    <link rel="mask-icon" href="/images/safari-pinned-tab.svg" color="#636363">
-    <meta name="apple-mobile-web-app-title" content="Olivier Fredon">
-    <meta name="application-name" content="Olivier Fredon">
-    <meta name="theme-color" content="#333333">
+    {{ partial "metas" . }}
 </head>
