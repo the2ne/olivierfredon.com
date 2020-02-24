@@ -14,7 +14,7 @@ L'engouement croissant pour cette plateforme m'attriste profondement. D'autant p
 
 Serait-il devenu si compliqué que ça d'héberger, d'installer et de configurer un blog en 2017 ?
 
-Non, je ne crois pas que ce soit ça le problème. Entre l'usage massif de  CMS  et la démocratisation de générateurs de site statique, cette réponse n'est pas envisageable.
+Non, je ne crois pas que ce soit ça le problème. Entre l'usage massif de  {{< abbr title="Content Management System" text="CMS" >}}  et la démocratisation de générateurs de site statique, cette réponse n'est pas envisageable.
 
 > Tout le monde est sur Medium, c'est là que ça se passe !
 
@@ -59,7 +59,7 @@ Le parallèle entre les deux peut sembler capillotracté et pourtant. Tous deux 
 C'est toujours bien vu de partir en croisade contre l'exploitation des données personnelles en brandissant l'étendard des libertés individuelles.  
 On se sent utile, voire important. On combat pour une noble cause.
 
-Et puis, comme on n'est pas à une contradiction près, juste après avoir tweeté à propos de la dernière mise à jour des CGU  de Facebook en mettant en copie la CNIL , on va faire un gros résumé sur Medium pour expliquer l'importance de préserver ses données et d'utiliser un Cloud privé avec un VPN  chiffré (c'était le passage pour remplir une grille de bingo).
+Et puis, comme on n'est pas à une contradiction près, juste après avoir tweeté à propos de la dernière mise à jour des CGU  de Facebook en mettant en copie la {{< abbr title="Commission Nationale de l'Informatique et des Libertés" text="CNIL" >}} , on va faire un gros résumé sur Medium pour expliquer l'importance de préserver ses données et d'utiliser un Cloud privé avec un {{< abbr title="Virtual Private Network" text="VPN" >}}  chiffré (c'était le passage pour remplir une grille de bingo).
 
 Non ce n'est pas de la mauvaise foi.
 
@@ -72,7 +72,7 @@ Certaines personnes vont bien plus loin que ce simple constat et proposent d'inv
 
 Et si c'est nous qui étions rémunérés en échange de l'accès à nos données ? Imaginez un monde dans lequel on rémunérerait les gens pour les contenus qu'ils produisent... Bigre, les auteurs doivent trouver cette idée révolutionnaire !
 
-Je parle bien de rémunération et pas d'échange de visibilité dans les SERP ou de box cadeau pour votre prochain article/podcast sur votre blog mode.
+Je parle bien de rémunération et pas d'échange de visibilité dans les {{< abbr title="Search Engine Result Page" text="SERP" >}} ou de box cadeau pour votre prochain article/podcast sur votre blog mode.
 
 Oui l'argent pervertit et potentiellement créera un jeu de pouvoir et d'influence sur le contenu produit.  
 Cependant, mettez bout à bout le temps passé à vous former, vous documenter, rédiger, concevoir et publier des contenus. Vous estimez vraiment que vous devriez en faire bénéficier des entreprises privées sans contrepartie financière ?
@@ -81,7 +81,7 @@ Cependant, mettez bout à bout le temps passé à vous former, vous documenter, 
 ## Evil Corp
 
 Même s'il a été mentioné plus haut, le pire dans tout ça, c'est bel et bien Google.  
-Car que vous passiez par un service auto-hébergé et centralisé ou par une solution maison, c'est Google qui déterminera la pérénité de votre &#339;uvre.
+Car que vous passiez par un service auto-hébergé et centralisé ou par une solution maison, c'est Google qui déterminera la pérénité de votre œuvre.
 
 En tout cas, en ce qui nous concerne en France, c'est lui avec une domination écrasante qui fait la loi de la visibilité des contenus en ligne et qui met en lumière les invisibles.
 
@@ -104,3 +104,5 @@ Et puis, on le sait bien, vous ne mettrez même pas de bandeau CNIL sur l'usage 
 Cet article n'est qu'un biais de confirmation pour me conforter dans mon choix d'ouvrir un blog hébergé sur un serveur dédié et avec un générateur de site statique : (spoiler : ce sera Hugo) sans commentaires, sans feature de partage (quoi, il y a une URL dans la barre de votre navigateur, Fichtre !) et sans Analytics.
 
 Maintenant je sais quoi faire pour m'occuper en 2017.
+
+*EDIT : Il aura fallut attendre trois ans pour que ce blog voit le jour \o/*
