@@ -2,14 +2,14 @@
     <meta name="twitter:card" content="summary">
     <meta name="twitter:site" content="@the2ne">
     <meta name="twitter:title" content="{{ .Site.Params.author }}">
-    <meta name="twitter:description" content="{{ .Site.Params.description }}">
-    <meta name="twitter:image" content="//www.olivierfredon.com/images/bg-404.jpg">
+    <meta name="twitter:description" content="{{ .Site.Params.description | safeHTML }}">
+    <meta name="twitter:image" content="{{ .Site.Params.logo | safeHTML }}">
 
     <meta property="og:title" content="{{ .Site.Params.author }}">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="//www.olivierfredon.com">
-    <meta property="og:image" content="//www.olivierfredon.com/images/bg-404.jpg">
-    <meta property="og:description" content="{{ .Site.Params.description }}">
+    <meta property="og:url" content="{{ .Permalink }}">
+    <meta property="og:image" content="{{ .Site.Params.logo | safeHTML }}">
+    <meta property="og:description" content="{{ .Site.Params.description | safeHTML }}">
     <meta property="og:locale:locale" content="fr_fr">
 
     <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">

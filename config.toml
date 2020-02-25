@@ -10,6 +10,7 @@ enableInlineShortcodes = true
     author = "Olivier Fredon"
     pseudo = "the2ne"
     description = "Olivier Fredon - Designer et concepteur Web freelance: communication, Print, Web & UI Design, intégration, gestion de projet"
+    logo = "https://www.olivierfredon.com/images/logo.jpg"
 
 [taxonomies]
     category = "categories"

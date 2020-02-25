@@ -397,6 +397,14 @@ img {
     font-size: 1.25em;
 }
 
+.blog .content footer {
+    border-top: 1px solid #777;
+    color: #777;
+    font-size: .75em;
+    margin-top: 1em;
+    text-align: center;
+}
+
 .content h1,
 .content .h1 {
     font-family: "Roboto Slab", "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;

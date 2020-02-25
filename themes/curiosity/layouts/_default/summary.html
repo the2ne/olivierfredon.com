@@ -1,7 +1,7 @@
 <article>
     <header>
         <h1><a href="{{ .Permalink }}">{{ .Title }}</a></h1>
-        <time datetime="{{ .Date.Format "02 January 2006" }}" class="h2">{{ .Date.Day }} {{ index $.Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }}</time>
+        <time datetime="{{ .PublishDate.Format "2006-01-02T15:04:05Z07:00" }}" class="h2">{{ .PublishDate.Day }} {{ index $.Site.Data.mois (printf "%d" .PublishDate.Month) }} {{ .PublishDate.Year }}</time>
     </header>
     <section>
         <p>{{ .Summary }}&hellip;</p>
