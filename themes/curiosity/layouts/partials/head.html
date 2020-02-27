@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="author" content="{{ .Site.Params.author }}">
     <meta name="description" content="{{ if .IsHome}}{{ .Site.Params.description | safeHTML  }}{{ else }}{{ .Description | safeHTML  }}{{ end }}">
-    <title>{{ if .IsHome }}{{ .Title | safeHTML }} }}{{ else }}{{ .Title | safeHTML }} | {{ .Site.Params.author }}{{ end }}</title>
+    <title>{{ if .IsHome }}{{ .Title | safeHTML }}{{ else }}{{ .Title | safeHTML }} | {{ .Site.Params.author }}{{ end }}</title>
     <base href="{{ .Site.BaseURL }}">
     <link rel="canonical" href="{{ .Permalink }}">
     {{ with .OutputFormats.Get "rss" -}}
@@ -14,6 +14,5 @@
     {{ end -}}
     <link rel="stylesheet" media="screen" href="/css/style.css">
     <link href="https://fonts.googleapis.com/css?family=Roboto+Slab&display=swap" rel="stylesheet"> 
-
     {{ partial "metas" . }}
 </head>
