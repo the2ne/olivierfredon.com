@@ -20,7 +20,9 @@ Non, je ne crois pas que ce soit ça le problème. Entre l'usage massif de {{< a
 
 > Tout le monde est sur Medium, c'est là que ça se passe{{<nbsp>}}!
 
-Non, pas ça. Pas l'argument qui repose sur un effet de mimétisme et d'adoption massive d'un nouveau service issu d'une start-up californienne à l' UX « trop cool ».
+### Non, pas ça.
+
+Pas l'argument qui repose sur un effet de mimétisme et d'adoption massive d'un nouveau service issu d'une start-up californienne à l' UX « trop cool ».
 
 Cela serait trop réducteur de mettre ça uniquement sur un caractère mainstream. Comment une interface clonée et uniformisée pour tous pourrait-elle séduire le hipster qui se cache en vous. Vous avez réellement envie de gommer votre individualité au profit d'une plateforme centralisée{{<nbsp>}}?
 

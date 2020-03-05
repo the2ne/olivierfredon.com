@@ -397,6 +397,10 @@ img {
     font-size: 1.25em;
 }
 
+.blog .content img {
+    max-width: 100%;
+}
+
 .blog .content footer {
     border-top: 1px solid #777;
     color: #777;
@@ -406,8 +410,18 @@ img {
 }
 
 .content h1,
-.content .h1 {
+.content .h1,
+.content h2,
+.content .h2,
+.content h3,
+.content .h3,
+.content h4,
+.content .h4 {
     font-family: "Roboto Slab", "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+}
+
+.content h1,
+.content .h1 {
     font-size: 2em;
     font-weight: bold;
     margin-bottom: 0;
@@ -416,11 +430,17 @@ img {
 
 .content h2,
 .content .h2 {
-    font-family: "Roboto Slab", "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
-    font-weight: normal;
     font-size: 1.25em;
+    font-weight: normal;
     margin-bottom: 1em;
     margin-top: 0
+}
+
+.content h3,
+.content .h3 {
+    font-size: 1em;
+    font-weight: normal;
+    color: #ddc79d;
 }
 
 .content abbr {
@@ -434,6 +454,12 @@ img {
     font-style: italic;
     margin: 1.5em 0;
     padding: .5em 1em
+}
+
+.content article + article {
+    border-top: 1px solid #ddc79d;
+    margin-top: 2em;
+    padding-top: 2em;
 }
 
 @media screen and (min-width: 21em) {
