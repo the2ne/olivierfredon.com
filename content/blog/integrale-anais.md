@@ -1,14 +1,12 @@
 ---
 title: "L'intégrale d'Anaïs, la revanche"
-description: "Récit d'une seconde tentative d'ascenssion de la grande voie l'Intégrale d'Anaïs en Ariège à Sinsat"
+description: "Récit d'une seconde tentative d'ascension de la grande voie l'Intégrale d'Anaïs en Ariège à Sinsat"
 date: 2020-03-05T11:11:28+01:00
 publishdate: 2017-06-16T11:11:28+01:00
 lastmod: 2020-03-05T11:11:28+01:00
 
 tags: ["escalade", "grande voie"]
 categories: ["escalade"]
-
-draft: true
 ---
 
 # L'intégrale d'Anaïs
