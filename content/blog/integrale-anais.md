@@ -1,8 +1,8 @@
 ---
-title: "L'intégrale d'Anaïs, la revenche"
+title: "L'intégrale d'Anaïs, la revanche"
 description: "Récit d'une seconde tentative d'ascenssion de la grande voie l'Intégrale d'Anaïs en Ariège à Sinsat"
 date: 2020-03-05T11:11:28+01:00
-publishdate: 2020-03-05T11:11:28+01:00
+publishdate: 2017-06-16T11:11:28+01:00
 lastmod: 2020-03-05T11:11:28+01:00
 
 tags: ["escalade", "grande voie"]
@@ -181,5 +181,3 @@ Des grandes voies oui, mais dans des cotations plus abordables par rapport à mo
  
 Le lendemain, on est tout de même parti à Orlu enchainer quelques longueurs afin de goûter aux joies du granit. 
 Faut pas mollir{{<nbsp>}}!
-
-Merci à celles et ceux qui auront pris le temps de lire et désolé si il y a des coquilles qui vous font saigner des yeux.

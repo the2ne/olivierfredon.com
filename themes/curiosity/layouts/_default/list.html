@@ -1,9 +1,10 @@
 {{ partial "head" . }}
 
-<body class="wrapper">
+<body class="wrapper list">
     {{ partial "header" . }}
     {{ partial "navigation" . }}
     <article class="content">
+        {{ .Content }}
         {{ range .Pages }}
             {{ .Render "summary"}}
         {{ end }}
