@@ -11,9 +11,9 @@ categories: ["escalade"]
 draft: true
 ---
 
-# L'intégrale d'Anaïs, la revenche
+# L'intégrale d'Anaïs
 
-## Récit d'escalade en grande voie{{<nbsp>}}: l'Intégrale d'Anaïs en Ariège à Sinsat
+## Récit d'escalade en grande voie en Ariège à Sinsat
 
 Petit compte-rendu d'un projet de grimpe qui s'est concrétisé le week-end du 26 mai 2017.
 Si vous n'avez pas le temps, le courage ou l'envie de tout lire, voici ce qu'il faut retenir
@@ -29,7 +29,7 @@ Nous avions déjà fait une première tentative avortée au deuxième ressaut en
 
 ## Mais qui est donc cette Anaïs{{<nbsp>}}?
 
-C’est l'enchaînement de 3 voies pour 450 mètres en 12 longueurs. Le tout dans un niveau T.D. 6b+ maximum  et 6a obligatoire ([Topo d'Anaïs](http://cafma.free.fr/Sinsat/Pelle/anais.htm))
+C’est l'enchaînement de 3 voies pour 450 mètres en 12 longueurs. Le tout dans un niveau T.D. 6b+ maximum et 6a obligatoire ([Topo d'Anaïs](http://cafma.free.fr/Sinsat/Pelle/anais.htm))
  
 Pendant un an elle revenait régulièrement nous hanter et alimenter les discussions. Cependant nous n'osions jamais vraiment poser de date précise pour retourner la voir. 
 Histoire de provoquer un peu les choses, j'ai promis à Jérôme que je lui offrirai une nuit avec Anaïs comme cadeau de mariage. Autant dire qu'il a rapidement eu envie de déballer son cadeau.
