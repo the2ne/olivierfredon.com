@@ -9,7 +9,7 @@
     <article class="content">
         {{ .Content }}
         <footer>
-            <p>Article publié le {{ .PublishDate.Day }} {{ index $.Site.Data.mois (printf "%d" .PublishDate.Month) }} {{ .PublishDate.Year }} et modifié le {{ .Lastmod.Day }} {{ index $.Site.Data.mois (printf "%d" .Lastmod.Month) }} {{ .Lastmod.Year }}</p>
+            <p>Article publié le {{ .PublishDate.Day }} {{ index $.Site.Data.mois (printf "%d" .PublishDate.Month) }} {{ .PublishDate.Year }} et modifié le {{ .Date.Day }} {{ index $.Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }}</p>
         </footer>
     </article>
     {{ partial "footer" . }}
