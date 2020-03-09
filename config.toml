@@ -9,7 +9,7 @@ enableInlineShortcodes = true
 [params]
     author = "Olivier Fredon"
     pseudo = "the2ne"
-    description = "Olivier Fredon - Designer et concepteur Web freelance: communication, garaphisme Print, Web & UI Design, intégration, gestion de projet"
+    description = "Olivier Fredon - Designer et concepteur Web freelance: communication, graphisme Print, Web & UI Design, intégration, gestion de projet. Basé dans le Lot-et-Garonne (47) entre Agen et Villeneuve-sur-Lot."
     logo = "https://www.olivierfredon.com/images/logo.jpg"
 
 [taxonomies]
