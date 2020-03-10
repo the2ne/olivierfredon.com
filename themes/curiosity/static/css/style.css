@@ -312,8 +312,12 @@ img {
 .social-networks {
     display: inline-block;
     list-style-type: none;
-    margin: 1em 2em;
+    margin: 1em auto;
     padding: 0
+}
+
+.social-networks + p {
+    margin: 0 auto 1em;
 }
 
 .social-networks>* {
