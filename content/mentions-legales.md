@@ -27,15 +27,16 @@ Micro entreprise (SIREN{{<nbsp>}}: 513{{<nbsp>}}799{{<nbsp>}}486) dispensée d�
 
 ## Mentions relatives à l'utilisation de cookies
 
-Ici, il n'y a aucun cookie informatique, seulement des petits biscuits secs avec de grosses pépites de chocolat.
+Ici, il n'y a aucun cookie informatique.  
+Seulement des petits biscuits secs avec de grosses pépites de chocolat.
 
 ## Mentions relatives à l'utilisation de données personnelles
 
-Aucun usage car pas de cookie, pas de formulaire, pas de base de données ou autre pistage quel qu'il soit.
+Aucun usage car pas de cookie, pas de formulaire et aucun autre pistage quel qu'il soit.
 
 ## Contenus et crédits
 
-Sauf mention contraire, les contenus de ce site sont la propriété de son éditeur. 
+Sauf mention contraire, les contenus de ce site sont la propriété de son éditeur.  
 L'utilisateur qui souhaite réutiliser les contenus de ce site doit impérativement indiquer{{<nbsp>}}:
 
 - Le titre associé au contenu,

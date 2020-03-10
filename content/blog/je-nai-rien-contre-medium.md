@@ -13,7 +13,7 @@ categories: ["Web"]
 
 ## J'ai moi-même de très bons amis qui l'utilisent
 
-L'engouement croissant pour cette plateforme m'attriste profondement. D'autant plus quand il s'agit de personnes dont l'activité principale tourne autour de la conception Web.
+L'engouement croissant pour cette plateforme m'attriste profondément. D'autant plus quand il s'agit de personnes dont l'activité principale tourne autour de la conception Web.
 
 Serait-il devenu si compliqué que ça d'héberger, d'installer et de configurer un blog en 2017{{<nbsp>}}?
 
@@ -21,7 +21,7 @@ Non, je ne crois pas que ce soit ça le problème. Entre l'usage massif de {{< a
 
 > Tout le monde est sur Medium, c'est là que ça se passe{{<nbsp>}}!
 
-### Non, pas ça.
+### Non, pas ça
 
 Pas l'argument qui repose sur un effet de mimétisme et d'adoption massive d'un nouveau service issu d'une start-up californienne à l' UX « trop cool ».
 
@@ -29,10 +29,10 @@ Cela serait trop réducteur de mettre ça uniquement sur un caractère mainstrea
 
 ### Non
 
-C'est d'ailleurs peut-être là que se trouve la vérité. 
+C'est d'ailleurs peut-être là que se trouve la vérité.  
 Comme on le ferait sur n'importe quel réseau social, on like, on share, on commente et on suit des trending topics sur Medium{{<nbsp>}}!
 
-Serait-ce aussi simple que ça{{<nbsp>}}? Un simple concours de « qui a la plus grosse » une fois de plus{{<nbsp>}}? 
+Serait-ce aussi simple que ça{{<nbsp>}}? Un simple concours de « qui a la plus grosse » une fois de plus{{<nbsp>}}?  
 Le tout sous couvert bien sûr de gagner de la visibilité. Oui, plus votre article sera partagé, liké, commenté… plus vous aurez de chances d'attérir dans les trending topics et donc d'être connu et reconnu. A vous « Amour, gloire et beauté ».
 
 Sérieusement, créer des contenus pour alimenter un service contre de la visibilité, ça ne vous rappelle rien (graphiste si tu m'entends #coeurAvecLesDoigts){{<nbsp>}}?
@@ -41,7 +41,7 @@ Sérieusement, créer des contenus pour alimenter un service contre de la visibi
 
 Et oui, Medium a réussi à mettre en place un mécanisme savant qui consiste à flatter votre égo afin que vous ayez envie d'alimenter toujours plus cet ogre qui ne serait rien sans vous.
 
-S'il y a bien une chose qu'ils ont compris (oui, ils ne sont pas complètement cons les petits gars de la valley) c'est que sur le Web, la seule chose qui ait réellement de la valeur, ce sont les contenus. 
+S'il y a bien une chose qu'ils ont compris (oui, ils ne sont pas complètement cons les petits gars de la valley) c'est que sur le Web, la seule chose qui ait réellement de la valeur, ce sont les contenus.  
 Ces contenus, ce sont nous et personne d'autre qui les créons.
 
 Bien avant Medium, d'autres l'avaient déjà bien compris{{<nbsp>}}: Google, Facebook, Twitter…
@@ -52,7 +52,7 @@ Ceux-là mêmes qui se ruent sur cette plateforme pour rédiger des articles de 
 
 > Vendez votre méthodologie
 
-Par pitié, ne venez plus nous tenir de jolis discours sur la manière de valoriser notre expertise, lorsque vous-même offrez une telle richesse à ce type de plateforme. 
+Par pitié, ne venez plus nous tenir de jolis discours sur la manière de valoriser notre expertise, lorsque vous-même offrez une telle richesse à ce type de plateforme.  
 Bordel, appliquez vos propres conseils et servez-vous de vos contenus pour alimenter vos sites et donc valoriser votre expertise en enrichissant votre présence en ligne. Ne laissez pas ce type de service phagocyter votre richesse et en retirer de la valeur.
 
 Si vous utilisez Medium de façon innocente, sachez que pour eux ça ne l'est pas du tout et que leur seul but est d'arriver à capitaliser les contenus que vous aurez créés.
@@ -61,14 +61,14 @@ Si vous utilisez Medium de façon innocente, sachez que pour eux ça ne l'est pa
 
 Le parallèle entre les deux peut sembler capillotracté et pourtant. Tous deux ne sont que de simples enregistrements, dont vous êtes à la source, dans des bases de données.
 
-C'est toujours bien vu de partir en croisade contre l'exploitation des données personnelles en brandissant l'étendard des libertés individuelles. 
+C'est toujours bien vu de partir en croisade contre l'exploitation des données personnelles en brandissant l'étendard des libertés individuelles.  
 On se sent utile, voire important. On combat pour une noble cause.
 
 Et puis, comme on n'est pas à une contradiction près, juste après avoir tweeté à propos de la dernière mise à jour des CGU de Facebook en mettant en copie la {{< abbr title="Commission Nationale de l'Informatique et des Libertés" text="CNIL" >}} , on va faire un gros résumé sur Medium pour expliquer l'importance de préserver ses données et d'utiliser un Cloud privé avec un {{< abbr title="Virtual Private Network" text="VPN" >}} chiffré (c'était le passage pour remplir une grille de bingo).
 
 Non ce n'est pas de la mauvaise foi.
 
-Pourquoi serait-ce plus juste ou normal de vouloir restreindre l'accès à nos données par des entreprises privées afin qu'elles ne puissent pas les exploiter à des fins commerciales{{<nbsp>}}? 
+Pourquoi serait-ce plus juste ou normal de vouloir restreindre l'accès à nos données par des entreprises privées afin qu'elles ne puissent pas les exploiter à des fins commerciales{{<nbsp>}}?  
 C'est exactement la même chose pour vos contenus et c'est ce que fait Medium{{<nbsp>}}: de la captation de votre richesse en vue de la monétiser tôt ou tard.
 
 ## Paradigme et pragmatisme
@@ -79,13 +79,12 @@ Et si c'est nous qui étions rémunérés en échange de l'accès à nos donnée
 
 Je parle bien de rémunération et pas d'échange de visibilité dans les {{< abbr title="Search Engine Result Page" text="SERP" >}} ou de box cadeau pour votre prochain article/podcast sur votre blog mode.
 
-Oui l'argent pervertit et potentiellement créera un jeu de pouvoir et d'influence sur le contenu produit. 
+Oui l'argent pervertit et potentiellement créera un jeu de pouvoir et d'influence sur le contenu produit.  
 Cependant, mettez bout à bout le temps passé à vous former, vous documenter, rédiger, concevoir et publier des contenus. Vous estimez vraiment que vous devriez en faire bénéficier des entreprises privées sans contrepartie financière{{<nbsp>}}?
-
 
 ## Evil Corp
 
-Même s'il a été mentioné plus haut, le pire dans tout ça, c'est bel et bien Google. 
+Même s'il a été mentioné plus haut, le pire dans tout ça, c'est bel et bien Google.  
 Car que vous passiez par un service auto-hébergé et centralisé ou par une solution maison, c'est Google qui déterminera la pérénité de votre œuvre.
 
 En tout cas, en ce qui nous concerne en France, c'est lui avec une domination écrasante qui fait la loi de la visibilité des contenus en ligne et qui met en lumière les invisibles.
@@ -96,15 +95,15 @@ Et bien justement, si en publiant sur Medium et autre vous cherchiez de la visib
 
 Une fois de plus si vous avez un portfolio, un blog, ou encore une simple page html, l'alimenter de votre personnalité et de vos contenus n'en sera que bénéfique pour vous. Reprenez la main sur votre identité.
 
-### Aparté sur les petits travers égocentrés.
+### Aparté sur les petits travers égocentrés
 
-On en parlait plus tôt, protection des données, tout ça, tout ça. 
-Sérieusement, pourquoi mettre Analytics sur un site perso{{<nbsp>}}? Cela dicte-t-il votre ligne éditoriale{{<nbsp>}}? Vous utilisez vraiment ces données ou une fois de plus c'est pour flatter votre égo et briller lors des concours de grosses bip{{<nbsp>}}? 
+On en parlait plus tôt, protection des données, tout ça, tout ça.  
+Sérieusement, pourquoi mettre Analytics sur un site perso{{<nbsp>}}? Cela dicte-t-il votre ligne éditoriale{{<nbsp>}}? Vous utilisez vraiment ces données ou une fois de plus c'est pour flatter votre égo et briller lors des concours de grosses bip{{<nbsp>}}?  
 Et puis, on le sait bien, vous ne mettrez même pas de bandeau CNIL sur l'usage des cookies parce que c'est vilain pas beau et imbitable sur mobile, alors une fois de plus, on n'est pas à une contradiction près.
 
 ## Et après{{<nbsp>}}?
 
-### Rien.
+### Rien
 
 Cet article n'est qu'un biais de confirmation pour me conforter dans mon choix d'ouvrir un blog hébergé sur un serveur dédié et avec un générateur de site statique{{<nbsp>}}: (spoiler{{<nbsp>}}: ce sera Hugo) sans commentaires, sans feature de partage (quoi, il y a une URL dans la barre de votre navigateur, Fichtre{{<nbsp>}}!) et sans Analytics.
 
