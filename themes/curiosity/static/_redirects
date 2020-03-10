@@ -2,4 +2,4 @@
 https://olivierfredon.netlify.com/* https://www.olivierfredon.com/:splat 301!
 
 # Redirect old content
-http://www.olivierfredon.com/je-nai-rien-contre-medium https://www.olivierfredon.com/blog/je-nai-rien-contre-medium/ 301!
+/je-nai-rien-contre-medium /blog/je-nai-rien-contre-medium/ 301!
