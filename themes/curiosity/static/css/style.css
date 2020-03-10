@@ -397,12 +397,12 @@ img {
     background-color: rgba(0, 0, 0, 0.666);
 }
 
-.blog .content {
-    font-size: 1.25em;
+.content img {
+    max-width: 100%;
 }
 
-.blog .content img {
-    max-width: 100%;
+.blog .content {
+    font-size: 1.25em;
 }
 
 .blog .content footer {
