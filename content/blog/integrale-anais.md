@@ -7,13 +7,14 @@ lastmod: 2020-03-05T11:11:28+01:00
 
 tags: ["escalade", "grande voie"]
 categories: ["escalade"]
+
+img: "/img/blog/anais/anais.jpg"
+imgalt: "Tracé de l'intégrale d'Anaïs"
 ---
 
 # L'intégrale d'Anaïs
 
 ## Récit d'escalade en grande voie en Ariège à Sinsat
-
-![l'intégrale d'Anaïs](/img/blog/anais/anais.jpg)
 
 Petit compte-rendu d'un projet de grimpe qui s'est concrétisé le week-end du 26 mai 2017.  
 Si vous n'avez pas le temps, le courage ou l'envie de tout lire, voici ce qu'il faut retenir

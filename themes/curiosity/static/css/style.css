@@ -405,6 +405,19 @@ img {
     font-size: 1.25em;
 }
 
+.blog .content .big-picture {
+    margin: -1em -2em 0;
+    position: relative;
+}
+
+.blog .content .big-picture figcaption {
+    color: #ddc79d;
+    font-size: .75em;
+    font-style: italic;
+    margin: 0 auto 1em;
+    text-align: center;
+}
+
 .blog .content footer {
     border-top: 1px solid #777;
     color: #777;
@@ -482,6 +495,26 @@ img {
     .content {
         margin: 3em 10%;
         padding: 1em 3em
+    }
+    .blog .content .big-picture {
+        margin: -1em -3em 0;
+    }
+
+    .blog .content .big-picture figcaption {
+        background-color:rgba(221, 199, 157, .8);
+        color: #333;
+        font-size: .75em;
+        margin: 0 auto;
+        padding: .75em 1em;
+        position: absolute;
+        bottom: 2.5em;
+        right: 0;
+        text-align: center;
+        visibility: hidden;
+    }
+
+    .blog .content .big-picture:hover figcaption {
+        visibility: visible;
     }
 }
 

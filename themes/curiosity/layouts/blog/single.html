@@ -7,6 +7,12 @@
         {{ partial "structured-data" . | safeJS }}
     </script>
     <article class="content">
+        {{ if .Params.Img }}
+        <figure class="big-picture">
+            <img src="{{ .Params.Img }}" alt="{{ .Params.ImgAlt }}" />
+            <figcaption>{{ .Params.ImgAlt }}</figcaption>
+        </figure>
+        {{ end }}
         {{ .Content }}
         <footer>
             <p>Article publié le {{ .PublishDate.Day }} {{ index $.Site.Data.mois (printf "%d" .PublishDate.Month) }} {{ .PublishDate.Year }} et modifié le {{ .Date.Day }} {{ index $.Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }}</p>
