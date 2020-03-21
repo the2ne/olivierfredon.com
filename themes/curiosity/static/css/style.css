@@ -406,8 +406,12 @@ img {
 }
 
 .blog .content .big-picture {
-    margin: -1em -2em 0;
+    margin: -1em -2em 1em;
     position: relative;
+}
+
+.blog .content .big-picture img {
+    border-bottom: 1px solid #ddc79d;
 }
 
 .blog .content .big-picture figcaption {
@@ -416,6 +420,7 @@ img {
     font-style: italic;
     margin: 0 auto 1em;
     text-align: center;
+    visibility: hidden;
 }
 
 .blog .content footer {
@@ -497,7 +502,7 @@ img {
         padding: 1em 3em
     }
     .blog .content .big-picture {
-        margin: -1em -3em 0;
+        margin: -1em -3em 1em;
     }
 
     .blog .content .big-picture figcaption {
