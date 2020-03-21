@@ -7,7 +7,6 @@ lastmod: 2020-03-21T11:09:20+01:00
 
 tags: ["www", "links"]
 categories: ["Web"]
-draft: true
 ---
 
 # Weekly linkdiggaz Ep.01
@@ -56,4 +55,5 @@ Une décharge de liens hebdomadaire, voilà ce qu'il vous attend. Que ce soit po
 
 - 👨‍💻 [Recrutement IT](https://twitter.com/shirleyalmosni/status/1241296911862321154) : Shirley fait encore une fois le taf et centralise les besoins
   - Au passage, on [ne remerciera jamais](https://twitter.com/shirleyalmosni/status/1241107099884584965) assez la [startup nation](https://twitter.com/shirleyalmosni/status/1240569333140590592) pour sa contribution
+- 🧰 [Formation agile full remote](https://nrichand.github.io/remote-agile-training/) : la boite à outils est bien fournie et utile pas seulement pour de l'agile
 - 📰 [Les connards qui nous gouvernent](https://blog.mondediplo.net/les-connards-qui-nous-gouvernent) : de la lecture pour finir (plus courtoise et développée que les vidéos de @sale_con cependant la teneur en a la même saveur)
