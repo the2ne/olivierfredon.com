@@ -7,6 +7,9 @@ lastmod: 2020-02-25T11:07:42+01:00
 
 tags: ["www", "startup nation"]
 categories: ["Web"]
+
+img: "/img/blog/medium.gif"
+imgalt: "Je n'ai rien contre Medium"
 ---
 
 # Je n'ai rien contre Medium
