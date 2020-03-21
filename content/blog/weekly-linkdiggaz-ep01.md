@@ -1,6 +1,6 @@
 ---
 title: "Weekly Linkdiggaz Ep.01"
-description: "Une décharge de liens hebdomadaire, voilà ce qu'il vous attend. Que ce soit pour passer le temps, se cultiver, nourrir ses envies, s'aérer l'esprit, prendre de la hauteur ou tomber en dépression, c'est selon l'arrivage et selon l'humeur."
+description: "Une décharge de liens hebdomadaire, voilà ce qui vous attend. Que ce soit pour passer le temps, se cultiver, nourrir ses envies, s'aérer l'esprit, prendre de la hauteur ou tomber en dépression, c'est selon l'arrivage et selon l'humeur."
 date: 2020-03-21T11:09:20+01:00
 publishdate: 2020-03-21T11:09:20+01:00
 lastmod: 2020-03-21T11:09:20+01:00
@@ -11,8 +11,8 @@ categories: ["Web"]
 
 # Weekly linkdiggaz Ep.01
 
-Inutile de préciser le contexte, un simple coup d'oeil sur la date en bas de page devrait suffir.  
-Une décharge de liens hebdomadaire, voilà ce qu'il vous attend. Que ce soit pour passer le temps, se cultiver, nourrir ses envies, s'aérer l'esprit, prendre de la hauteur ou tomber en dépression, c'est selon l'arrivage et selon l'humeur.
+Inutile de préciser le contexte, un simple coup d'oeil sur la date en bas de page devrait suffire.  
+Une décharge de liens hebdomadaire, voilà ce qui vous attend. Que ce soit pour passer le temps, se cultiver, nourrir ses envies, s'aérer l'esprit, prendre de la hauteur ou tomber en dépression, c'est selon l'arrivage et selon l'humeur.
 
 ## Des images
 
@@ -24,7 +24,7 @@ Une décharge de liens hebdomadaire, voilà ce qu'il vous attend. Que ce soit po
 
 ### Documentaire
 
-- 🍷 [Punkovino](https://www.arte.tv/fr/videos/RC-017612/punkovino/){{<nbsp>}}: série de 10 mini documentaires sur le vin naturel autour de l'europe et en musique
+- 🍷 [Punkovino](https://www.arte.tv/fr/videos/RC-017612/punkovino/){{<nbsp>}}: série de 10 mini documentaires sur le vin naturel autour de l'Europe et en musique
 - 👾 [Une contre-histoire de l'internet](https://boutique.arte.tv/detail/contre_histoire_internet){{<nbsp>}}: oui c'est pas tout jeune mais il est encore temps !
 
 ### Design
@@ -49,7 +49,7 @@ Une décharge de liens hebdomadaire, voilà ce qu'il vous attend. Que ce soit po
 ### Podcasts & radios
 
 - 📻 [Fermons les portes, ouvrons les esprits](https://www.nova.fr/reste-ouvert){{<nbsp>}}: belle initiative de Radio Nova et Les Inrocks
-- 🗺️ [Les baladeurs](https://www.lesothers.com/podcast-les-baladeurs){{<nbsp>}}: les Ohters nous offres tous les 15 jours un podcast aventure et mésaventure
+- 🗺️ [Les baladeurs](https://www.lesothers.com/podcast-les-baladeurs){{<nbsp>}}: les Ohters nous offrent tous les 15 jours un podcast aventure et mésaventure
 
 ## Des mots
 
