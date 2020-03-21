@@ -1,6 +1,6 @@
 ---
 title: "Je n'ai rien contre Medium"
-description: ""
+description: "De l'importance de ne pas confier ses contenus à une plateforme décentralisée. Encore plus si elle est cool et en californie."
 date: 2020-02-25T11:07:42+01:00
 publishdate: 2017-01-05T11:09:28+01:00
 lastmod: 2020-02-25T11:07:42+01:00
@@ -23,7 +23,7 @@ Non, je ne crois pas que ce soit ça le problème. Entre l'usage massif de {{< a
 
 ### Non, pas ça
 
-Pas l'argument qui repose sur un effet de mimétisme et d'adoption massive d'un nouveau service issu d'une start-up californienne à l' UX « trop cool ».
+Pas l'argument qui repose sur un effet de mimétisme et d'adoption massive d'un nouveau service issu d'une start-up californienne à l' UX «{{<nbsp>}}trop cool{{<nbsp>}}».
 
 Cela serait trop réducteur de mettre ça uniquement sur un caractère mainstream. Comment une interface clonée et uniformisée pour tous pourrait-elle séduire le hipster qui se cache en vous. Vous avez réellement envie de gommer votre individualité au profit d'une plateforme centralisée{{<nbsp>}}?
 
@@ -32,8 +32,8 @@ Cela serait trop réducteur de mettre ça uniquement sur un caractère mainstrea
 C'est d'ailleurs peut-être là que se trouve la vérité.  
 Comme on le ferait sur n'importe quel réseau social, on like, on share, on commente et on suit des trending topics sur Medium{{<nbsp>}}!
 
-Serait-ce aussi simple que ça{{<nbsp>}}? Un simple concours de « qui a la plus grosse » une fois de plus{{<nbsp>}}?  
-Le tout sous couvert bien sûr de gagner de la visibilité. Oui, plus votre article sera partagé, liké, commenté… plus vous aurez de chances d'attérir dans les trending topics et donc d'être connu et reconnu. A vous « Amour, gloire et beauté ».
+Serait-ce aussi simple que ça{{<nbsp>}}? Un simple concours de «{{<nbsp>}}qui a la plus grosse{{<nbsp>}}» une fois de plus{{<nbsp>}}?  
+Le tout sous couvert bien sûr de gagner de la visibilité. Oui, plus votre article sera partagé, liké, commenté… plus vous aurez de chances d'attérir dans les trending topics et donc d'être connu et reconnu. A vous «{{<nbsp>}}Amour, gloire et beauté{{<nbsp>}}».
 
 Sérieusement, créer des contenus pour alimenter un service contre de la visibilité, ça ne vous rappelle rien (graphiste si tu m'entends #coeurAvecLesDoigts){{<nbsp>}}?
 
