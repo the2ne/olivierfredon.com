@@ -1,4 +1,4 @@
-baseurl = "https://www.olivierfredon.com"
+baseurl = "https://www.olivierfredon.com/"
 title = "Olivier Fredon - Graphiste, Web designer et intégrateur freelance basé entre Agen et Villeneuve-sur-Lot (Lot-et-Garonne 47)"
 languageCode = "fr"
 theme = "curiosity"
@@ -10,7 +10,7 @@ enableInlineShortcodes = true
     author = "Olivier Fredon"
     pseudo = "the2ne"
     description = "Olivier Fredon - Designer et concepteur Web freelance: communication, graphisme Print, Web & UI Design, intégration, gestion de projet. Basé dans le Lot-et-Garonne (47) entre Agen et Villeneuve-sur-Lot."
-    logo = "https://www.olivierfredon.com/images/logo.jpg"
+    logo = "images/logo.jpg"
 
 [taxonomies]
     category = "categories"
@@ -18,7 +18,7 @@ enableInlineShortcodes = true
 
 [[menu.main]]
     name = "Blog"
-    url = "/blog/"
+    url = "blog/"
     weight = 1
 [[menu.main]]
     name = "Contact"

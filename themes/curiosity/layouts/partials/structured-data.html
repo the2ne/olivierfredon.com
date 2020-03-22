@@ -8,7 +8,7 @@
     "headline": "{{ .Title | safeHTML}} }}",
     "image": {
         "@type": "ImageObject",
-        "url": "{{ if .Params.Img }}{{ .Params.Img }}{{ else }}{{ .Site.Params.logo | safeHTML }}{{ end }}"
+        "url": "{{ if .Params.Img }}{{ .Site.BaseURL }}{{ .Params.Img }}{{ else }}{{ .Site.BaseURL }}{{ .Site.Params.logo | safeHTML }}{{ end }}"
     },
     "datePublished": "{{ .PublishDate.Format "2006-01-02T15:04:05Z07:00" }}",
     "dateModified": "{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}",
@@ -21,7 +21,7 @@
         "name": "{{ .Site.Params.author }}",
         "logo": {
             "@type": "ImageObject",
-            "url": "{{ .Site.Params.logo }}",
+            "url": "{{ .Site.BaseURL }}{{ .Site.Params.logo }}",
             "width": "600",
             "height": "200"
         }

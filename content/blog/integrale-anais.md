@@ -8,7 +8,7 @@ lastmod: 2020-03-05T11:11:28+01:00
 tags: ["escalade", "grande voie"]
 categories: ["escalade"]
 
-img: "/img/blog/anais/anais.jpg"
+img: "img/blog/anais/anais.jpg"
 imgalt: "Tracé de l'intégrale d'Anaïs"
 ---
 
