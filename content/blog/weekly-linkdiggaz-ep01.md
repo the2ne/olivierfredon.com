@@ -23,7 +23,7 @@ Une décharge de liens hebdomadaire, voilà ce qui vous attend. Que ce soit pour
 
 - 📽️ [Rock Auvergne](https://vimeo.com/336043326){{<nbsp>}}: l'histoire de l'escalade dans le macif central
 - ⛰️ [Emily Harrington dans Golden gate](https://www.youtube.com/watch?v=ccPYyF-plQY&feature=youtu.be&sf119533053=1){{<nbsp>}}: l'ascenssion de cette magnifique voie d'El Capitan au Yosemite
-- 🧗‍♀️ [Super Crackinette](https://www.instagram.com/p/B944QjrpnT8/){{<nbsp>}}: premier 9a+ féminin français par Julia Chanourdie
+- 🧗‍♀️ [Super Crackinette](https://www.instagram.com/p/B944QjrpnT8/){{<nbsp>}}: l'enchainement du premier 9a+ féminin français par Julia Chanourdie
 
 ### Documentaire
 
@@ -33,6 +33,7 @@ Une décharge de liens hebdomadaire, voilà ce qui vous attend. Que ce soit pour
 ### Design
 
 - 🖍️ [Coloriage, merci Førtifem](https://twitter.com/Fortifem/status/1241011793939648512){{<nbsp>}}: les illus du prochain Igorrr pour s'occuper en famille
+- 🖌️ [Coloriage encore](https://we.tl/t-hHLDL7zpm7), merci [Bishop Parigo](https://www.instagram.com/bishopparigo/){{<nbsp>}}: Des piafs en veux-tu, en voilà
 - ✒️ [#36daysoftype](https://www.instagram.com/graffr/){{<nbsp>}}: la série de @graffr est vraiment super classe, mais allez [voir le reste](https://www.instagram.com/explore/tags/36daysoftype/) aussi
 
 ### Humour
@@ -46,6 +47,7 @@ Une décharge de liens hebdomadaire, voilà ce qui vous attend. Que ce soit pour
 
 - 🎛️ [DJ Sims](https://twitter.com/sims_samples/status/1238819195904823298) décortique des samples sur simple demande ([son SoundCloud](https://soundcloud.com/now-futur) vaut le détour)
 - 🔊 [Luckily we still have music](https://soundcloud.com/laurent-garnier/sets/lg-contact-tokyo-7-hour-set){{<nbsp>}}: Laurent Garnier met en ligne des heures et des heures de mix
+- 🎸 [-M- en live acoustique](https://www.facebook.com/MatthieuChedid/videos/1116182398780666/) depuis son salon bien entendu !
 - 📯 [Very noise](https://www.youtube.com/watch?v=Osqf4oIK0E8) [Parpaing](https://www.youtube.com/watch?v=urU5JS4Eb-k) [Camel Dancefloor](https://www.youtube.com/watch?v=tZ3KObtDaGw){{<nbsp>}}: en attendant le dernier album d'Igorrr et le report des concerts
 - 🎧 [Résumer la situation en titres soul & funk](https://open.spotify.com/playlist/3K9OFhhZ2j4lpQPUGxt4fg?si=IxoHOx6XQ8iv_SVBsOklwQ) avec une playlist maison
 
@@ -56,7 +58,8 @@ Une décharge de liens hebdomadaire, voilà ce qui vous attend. Que ce soit pour
 
 ## Des mots
 
-- 👨‍💻 [Recrutement IT](https://twitter.com/shirleyalmosni/status/1241296911862321154){{<nbsp>}}: Shirley fait encore une fois le taf et centralise les besoins
-  - Au passage, on [ne remerciera jamais](https://twitter.com/shirleyalmosni/status/1241107099884584965) assez la [startup nation](https://twitter.com/shirleyalmosni/status/1240569333140590592) pour sa contribution
+- 📰 [Les connards qui nous gouvernent](https://blog.mondediplo.net/les-connards-qui-nous-gouvernent){{<nbsp>}}: lecture dense dont la teneur a la même saveur que les vidéos de @sale_con
+- 📄 [Ne pas confondre réseaux et services](https://framablog.org/2020/03/21/linternet-pendant-le-confinement/) : Excellent article de [Stéphane Bortzmeyer](https://twitter.com/bortzmeyer) afin que [nous sachions](https://twitter.com/neonemesis/status/1241445495567982593)
 - 🧰 [Formation agile full remote](https://nrichand.github.io/remote-agile-training/){{<nbsp>}}: la boite à outils est bien fournie et utile pas seulement pour de l'agile
-- 📰 [Les connards qui nous gouvernent](https://blog.mondediplo.net/les-connards-qui-nous-gouvernent){{<nbsp>}}: de la lecture pour finir (plus courtoise et développée que les vidéos de @sale_con cependant la teneur en a la même saveur)
+- 👨‍💻 [Recrutement IT](https://twitter.com/shirleyalmosni/status/1241296911862321154){{<nbsp>}}: Shirley fait encore une fois le taf et centralise les besoins
+  - Au passage, on [ne remerciera jamais](https://twitter.com/shirleyalmosni/status/1241107099884584965) assez la [startup nation](https://twitter.com/shirleyalmosni/status/1240569333140590592) pour [sa contribution](https://twitter.com/shirleyalmosni/status/1241286594209951744)
