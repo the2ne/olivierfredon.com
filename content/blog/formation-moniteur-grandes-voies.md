@@ -35,7 +35,7 @@ des explications, des manips de corde, de matos et de personnes. Sans oublier de
 
 ## Jeudi, jour 1{{<nbsp>}}: Suuuuurpriiise{{<nbsp>}}!
 
-Rendez-vous sur le parking de [Calamès]().  
+Rendez-vous sur le parking de [Calamès](http://cafma.free.fr/calames/fr_cal.htm).  
 Le bitume est encore un peu humide, alors le temps que ça sèche{{<nbsp>}}: présentation individuelle, niveau et années de pratique de l'escalade, attente vis-à-vis de cette formation et passage en revu du matériel.
 
 ![PHOTO](/img/blog/moniteur-gv/pohto.jpg)
