@@ -16,10 +16,10 @@ draft: true
 
 # Brevet fédéral moniteur escalade qualification grandes voies
 
-## Un tout petit récit de quatre jours de formation mémorables.
+Il y a des choses que l'on reporte à plus tard et qui finalement ne se font pas. Parmi celles-ci l'envie de  partager quelques expériences personnelles qui n'ont rien à voir avec mon parcours pro mais qui contribuent grandement à ouvrir d'autres perspectives.  
+La situation étant propice à réaliser tous ces actes manqués, remontons dans le temps et partons pour un long week-end de mai 2018.
 
-Il y a des choses que l'on reporte à plus tard et qui finalement ne se font pas. Parmis celles-ci l'envie de  partager quelques expériences personnelles qui n'ont rien à voir avec mon parcours pro mais qui contribuent grandement à ouvrir d'autres perspectives.  
-La situation étant propice à réaliser toutes ces petites intentions non abouties, remontons dans le temps et partons pour un long week-en de mai 2018.
+## Un tout petit récit de quatre jours de formation mémorables.
 
 Gérald et moi, jusqu'à présent initiateurs escalade en site naturel (SNE), avons signé pour passer moniteur escalade grandes voies.  
 Formation assurée par un guide de haute montagne complètement hallucinant et adorable{{<nbsp>}}: [David Marret](https://oncledav.blogspot.com/) et co-animé par le non moins halluciné et tout aussi sympathique{{<nbsp>}}: Jean-Paul A.K.A. Jipi, himself.  
