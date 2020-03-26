@@ -483,6 +483,17 @@ img {
     font-style: italic;
 }
 
+.content hr {
+    border: 0;
+    border-bottom: 1px solid #777;
+    background: transparent;
+    margin-top: 2em;
+}
+
+.content hr + p {
+    font-size: .75em;
+}
+
 .list .content article {
     border-top: 1px solid #ddc79d;
     margin-top: 2em;

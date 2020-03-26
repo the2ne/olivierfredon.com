@@ -16,7 +16,7 @@ draft: true
 
 # Brevet fédéral moniteur escalade qualification grandes voies
 
-Il y a des choses que l'on reporte à plus tard et qui finalement ne se font pas. Parmi celles-ci l'envie de  partager quelques expériences personnelles qui n'ont rien à voir avec mon parcours pro mais qui contribuent grandement à ouvrir d'autres perspectives.  
+Il y a des choses que l'on reporte à plus tard et qui finalement ne se font pas. Parmi celles-ci l'envie de partager quelques expériences personnelles qui n'ont rien à voir avec mon parcours pro mais qui participent grandement à mon équilibre.  
 La situation étant propice à réaliser tous ces actes manqués, remontons dans le temps et partons pour un long week-end de mai 2018.
 
 ## Un tout petit récit de quatre jours de formation mémorables.
