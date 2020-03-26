@@ -36,16 +36,14 @@ des explications, des manips de corde, de matos et de personnes. Sans oublier de
 Rendez-vous sur le parking de [Calamès](http://cafma.free.fr/calames/fr_cal.htm).  
 Le bitume est encore un peu humide, alors le temps que ça sèche{{<nbsp>}}: présentation individuelle, niveau et années de pratique de l'escalade, attente vis-à-vis de cette formation et passage en revu du matériel.
 
-![Panoramique du haut de Calamès](/img/blog/moniteur-gv/calames-pano.jpg)
-
 C'est pas tout ça mais on commence à se geler alors on remballe et direction le caillou.  
 Au bas des voies, premier atelier avec vérification des connaissances sur les relais et les différentes façon de les équiper.  
 On en profite pour réviser les nœuds{{<nbsp>}}: lesquels et dans quels cas{{<nbsp>}}?  
 Ensuite, on forme les codées et on fait notre choix dans le topo.
 
-### Objectif{{<nbsp>}}: grimper 4 ou 5 longueurs tranquilles afin que nos deux GO puissent checker que nous étions de bons élèves et que ce que nous avions annoncé correspond à notre pratique.  
-
 ![Relais sur Friends et coinceurs à Calamès](/img/blog/moniteur-gv/calames-details.jpg)
+
+### Objectif{{<nbsp>}}: grimper 4 ou 5 longueurs tranquilles afin que nos deux GO puissent checker que nous étions de bons élèves et que ce que nous avions annoncé correspond à notre pratique.  
 
 C'est Calamès, les voies faciles sont équipées espacées alors nos GO sortent des jouets surprises.  
 On va en profiter pour digresser avec une option terrain d'aventure et poser quelques coinceurs, friends et autres joyeusetés qui permettent de grimper lesté.  
@@ -55,8 +53,6 @@ Au final ça m'a fait du bien. J'avais besoin de démystifier un peu la quincail
 ## Vendredi, jour 2{{<nbsp>}}: J'ai pas pris mes skis et il n'y a pas de télésièges
 
 On savait que ce serait la plus belle journée et qu'il fallait en profiter à fond.
-
-![Vue sur la dent d'Orlu sous la neige depuis la marche d'approche](/img/blog/moniteur-gv/orlu-approche.jpg)
 
 ### Objectif, grimper et sortir par le sommet.
 
@@ -69,12 +65,10 @@ On aurait du se méfier, c'est lui qui la veille nous avez dit{{<nbsp>}}:
 Oui tu m'étonnes.  
 De la flotte qui résurge un peu partout, parfait pour une journée de grimpe. Et puis toute cette neige, c'est vachement bien fait dit-donc{{<nbsp>}}?!
 
-![On finit la marche d'approche dans la neige pour rejoindre le pied des voies](/img/blog/moniteur-gv/orlu-approche-neige.jpg)
+![Vue sur la dent d'Orlu sous la neige depuis la marche d'approche](/img/blog/moniteur-gv/orlu-approche.jpg)
 
 On s'est donc adapté. Une belle trace ouverte par notre guide et une main courante pour atteindre les 3 premières et seules voies accessibles, ensuite banzaï{{<nbsp>}}!  
 Fini la rando alpine, on peut enfin mettre les chaussons.
-
-![Grimpe au mois de mai à Orlu dans une ambiance féérique](/img/blog/moniteur-gv/orlu-grimpe.jpg)
 
 Au sommet, on retrouvera à nouveau la neige et donc une descente bien rock'n roll, surtout pour trois d'entre-nous… dont moi.
 
@@ -82,7 +76,7 @@ Au sommet, on retrouvera à nouveau la neige et donc une descente bien rock'n ro
 
 Non, en vrai c'était une expérience fantastique, dure mais enrichissante, pour moi qui ne fait quasiment que de la couenne sportive.
 
-![La descente par la voie normale toujours sans l'équipement adéquat](/img/blog/moniteur-gv/orlu-descente.jpg)
+![Grimpe au mois de mai à Orlu dans une ambiance féérique](/img/blog/moniteur-gv/orlu-grimpe.jpg)
 
 ## Samedi, jour 3{{<nbsp>}}: Souvenirs et découvertes
 
@@ -108,19 +102,17 @@ On plie rapidement et descend tel une harde de sangliers dans le pierrier glissa
 ## Dimanche, jour 4{{<nbsp>}}: Le jugement dernier
 
 On savait déjà qu'on ne pourrait pas grimper au sec en grande voie aujourd'hui.  
-De là à imaginer qu'on perdrait plus de 20 degrés et qu'il y aurait de la neige un peu partout{{<nbsp>}}!
-
-![Les Cabannes au mois de mai !](/img/blog/moniteur-gv/cabannes.jpg)
-
+De là à imaginer qu'on perdrait plus de 20 degrés et qu'il y aurait de la neige un peu partout{{<nbsp>}}!  
 On vide le gîte et file vers la [grotte de Sabart](http://cafma.free.fr/sabart/fr_sabart.htm).  
+
+![La grotte de Sabart](/img/blog/moniteur-gv/grotte-sabart.jpg)
+
 Enfin une vraie marche d'approche{{<nbsp>}}: 10 minutes sur du plat{{<nbsp>}}!!!  
 Pour celles et ceux qui ne connaissent pas, une voie de chauffe en 6c+ (humide) et tout le reste au dessus, jusqu'au 9a.  
 Et bien sûr ça résurge de partout.
 
 David et Jean-Paul nous installent deux beaux relais afin de pouvoir travailler sereinement.  
 On révise par petit groupe l'ensemble des techniques abordées durant les jours précédents.  
-
-![La grotte de Sabart](/img/blog/moniteur-gv/grotte-sabart.jpg)
 
 ### Et en début d'après midi, la terrible épreuve tant attendue et redoutée arrive{{<nbsp>}}: l'épreuve des poteaux…
 
@@ -129,11 +121,11 @@ Forcement je tombe sur le sujet que je fuyais, la fameuse redescente du second s
 Pendant ce temps les autres, font de la remonté sur corde fixe ou autre balancier espagnol… pfff{{<nbsp>}}!
 Au final, je sors tout dans le bon ordre et du premier coup et mon second est sain et sauf.
 
-![L'examen final dans un lieu improbable pour une formation grandes voies](/img/blog/moniteur-gv/sabart-manip.jpg)
-
 ## Verdict, on est tous moniteurs grandes voies{{<nbsp>}}!
 
 Mais je ne suis toujours pas montagnard pour autant{{<nbsp>}}:)  
 Un énorme merci à nos GO pour leur patience, aide, expérience et partage.
+
+---
 
 *OK ce blog ne parle que d'escalade. Je vais faire un effort et essayer de vous proposer des articles relatifs à mon boulot et surtout faire un portfolio{{<nbsp>}}!*
