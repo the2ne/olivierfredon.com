@@ -27,6 +27,8 @@ En plus des deux cafistes lot-et-garonnais, nous avions un rastaman ch'ti, deux 
 
 Jean-Paul ayant le topo de l’Ariège tatoué dans le dos et ne pouvant pas poser les chaussons sur un caillou autre qu'ariégeois, nous nous sommes naturellement tous retrouvés aux Oustalous (Les Cabannes / Sinsat) pour ces quatre jours.
 
+![PHOTO](/img/blog/moniteur-gv/pohto.jpg)
+
 ### Au programme{{<nbsp>}}:
 
 des explications, des manips de corde, de matos et de personnes. Sans oublier de loooongues marches d'approche, de la grimpe un peu quand même et des soirées conviviales et pédagogiques (oui, on peut allier les deux).
@@ -34,7 +36,10 @@ des explications, des manips de corde, de matos et de personnes. Sans oublier de
 ## Jeudi, jour 1{{<nbsp>}}: Suuuuurpriiise{{<nbsp>}}!
 
 Rendez-vous sur le parking de Calamès.  
-Le bitume est encore un peu humide, alors le temps que ça sèche{{<nbsp>}}: présentation individuelle, niveau et années de pratique de l'escalade, attente vis-à-vis de cette formation et passage en revu du matériel.  
+Le bitume est encore un peu humide, alors le temps que ça sèche{{<nbsp>}}: présentation individuelle, niveau et années de pratique de l'escalade, attente vis-à-vis de cette formation et passage en revu du matériel.
+
+![PHOTO](/img/blog/moniteur-gv/pohto.jpg)
+
 C'est pas tout ça mais on commence à se geler alors on remballe et direction le caillou.  
 Au bas des voies, premier atelier avec vérification des connaissances sur les relais et les différentes façon de les équiper.  
 On en profite pour réviser les nœuds{{<nbsp>}}: lesquels et dans quels cas{{<nbsp>}}?  
@@ -51,6 +56,8 @@ Au final ça m'a fait du bien. J'avais besoin de démystifier un peu la quincail
 
 On savait que ce serait la plus belle journée et qu'il fallait en profiter à fond.
 
+![PHOTO](/img/blog/moniteur-gv/pohto.jpg)
+
 ### Objectif, grimper et sortir par le sommet.
 
 Après de longues hésitations la veille lors du repas, notre choix s'est porté sur Orlu et sa face Est.  
@@ -62,6 +69,8 @@ On aurait du se méfier, c'est lui qui la veille nous avez dit{{<nbsp>}}:
 Oui tu m'étonnes.  
 De la flotte qui résurge un peu partout, parfait pour une journée de grimpe. Et puis toute cette neige, c'est vachement bien fait dit-donc{{<nbsp>}}?!
 
+![PHOTO](/img/blog/moniteur-gv/pohto.jpg)
+
 On s'est donc adapté. Une belle trace ouverte par notre guide et une main courante pour atteindre les 3 premières et seules voies accessibles, ensuite banzaï{{<nbsp>}}!  
 Fini la rando alpine, on peut enfin mettre les chaussons.
 
@@ -71,12 +80,16 @@ Au sommet, on retrouvera à nouveau la neige et donc une descente bien rock'n ro
 
 Non, en vrai c'était une expérience fantastique, dure mais enrichissante, pour moi qui ne fait quasiment que de la couenne sportive.
 
+![PHOTO](/img/blog/moniteur-gv/pohto.jpg)
+
 ## Samedi, jour 3{{<nbsp>}}: Souvenirs et découvertes
 
 On sait que la météo devrait virer à l'orage dans l'après-midi, du coup on traverse la route et attaque la marche d'approche du Quié à Sinsat direction le Pubis.  
 Je m'étais promis de ne jamais revenir là après avoir bien galéré l'année dernière avec Jérôme pour sortir «{{<nbsp>}}[l'intégrale d'Anaïs](){{<nbsp>}}» et pourtant…  
 Encore une marche d'approche qui me fracasse. Faut vraiment que je me mette à courir ou à pédaler.  
 Soit.
+
+![PHOTO](/img/blog/moniteur-gv/pohto.jpg)
 
 ### Aujourd'hui on est censé grimper quelques longueurs, mettre en pratique des manips d'aide au second et finir en moulinant le second sur les deux longueurs de cordes raboutées et en tension.
 
@@ -95,6 +108,8 @@ On plie rapidement et descend tel une harde de sangliers dans le pierrier glissa
 On savait déjà qu'on ne pourrait pas grimper au sec en grande voie aujourd'hui.  
 De là à imaginer qu'on perdrait plus de 20 degrés et qu'il y aurait de la neige un peu partout{{<nbsp>}}!
 
+![PHOTO](/img/blog/moniteur-gv/pohto.jpg)
+
 On vide le gîte et file vers la [grotte de Sabart]().  
 Enfin une vraie marche d'approche{{<nbsp>}}: 10 minutes sur du plat{{<nbsp>}}!!!  
 Pour celles et ceux qui ne connaissent pas, une voie de chauffe en 6c+ (humide) et tout le reste au dessus, jusqu'au 9a.  
@@ -102,6 +117,8 @@ Et bien sûr ça résurge de partout.
 
 David et Jean-Paul nous installent deux beaux relais afin de pouvoir travailler sereinement.  
 On révise par petit groupe l'ensemble des techniques abordées durant les jours précédents.  
+
+![PHOTO](/img/blog/moniteur-gv/pohto.jpg)
 
 ### Et en début d'après midi, la terrible épreuve tant attendue et redoutée arrive{{<nbsp>}}: l'épreuve des poteaux…
 
