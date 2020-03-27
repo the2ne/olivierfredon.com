@@ -466,7 +466,9 @@ img {
 }
 
 .content abbr {
-    border-bottom: 1px dotted
+    border-bottom: 1px dotted;
+    text-decoration: none;
+    cursor: help;
 }
 
 .content blockquote {

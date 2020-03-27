@@ -1,9 +1,9 @@
 ---
 title: "Moniteur escalade qualification grandes voies"
 description: "Compte rendu de 4 jour de formation au brevet fédéral de moniteur escalade qualification grandes voies à la FFCAM"
-date: 2020-03-26T11:23:47+01:00
+date: 2020-03-27T11:23:47+01:00
 publishdate: 2020-03-26T11:23:47+01:00
-lastmod: 2020-03-26T11:23:47+01:00
+lastmod: 2020-03-27T11:23:47+01:00
 
 tags: ["escalade", "grande voie"]
 categories: ["escalade"]
@@ -19,29 +19,29 @@ La situation étant propice à réaliser tous ces actes manqués, remontons dans
 
 ## Un tout petit récit de quatre jours de formation mémorables.
 
-Gérald et moi, jusqu'à présent initiateurs escalade en site naturel (SNE), avons signé pour passer moniteur escalade grandes voies.  
+Gérald et moi, jusqu'à présent initiateurs en site naturel d'escalade (SNE), avons signé pour passer moniteur escalade grandes voies.  
 Formation assurée par un guide de haute montagne complètement hallucinant et adorable{{<nbsp>}}: [David Marret](https://oncledav.blogspot.com/) et co-animé par le non moins halluciné et tout aussi sympathique{{<nbsp>}}: Jean-Paul A.K.A. Jipi, himself.  
 En plus des deux cafistes lot-et-garonnais, nous avions un rastaman ch'ti, deux palois affûtés et notre Déléguée Technique Régionale de la Fédération Française des Clubs Alpins et de Montagne (FFCAM) en provenance de Bordeaux.
 
-Jean-Paul ayant le [topo de l’Ariège](http://cafma.free.fr/) tatoué dans le dos et ne pouvant pas poser les chaussons sur un caillou autre qu'ariégeois, nous nous sommes naturellement tous retrouvés aux Oustalous (Les Cabannes / Sinsat) pour ces quatre jours.
+Jean-Paul, ayant le [topo de l’Ariège](http://cafma.free.fr/) tatoué dans le dos et ne pouvant pas poser les chaussons sur un caillou autre qu'ariégeois, nous a naturelement donné rendez-vous aux Oustalous (Les Cabannes / Sinsat) pour ces quatre jours.
 
 ### Au programme{{<nbsp>}}:
 
-des explications, des manips de corde, de matos et de personnes. Sans oublier de loooongues marches d'approche, de la grimpe un peu quand même et des soirées conviviales et pédagogiques (oui, on peut allier les deux).
+des explications, des manipulations de corde, de matériels et de personnes. Sans oublier de loooongues marches d'approche, de la grimpe un peu quand même et des soirées conviviales et pédagogiques (oui, on peut allier les deux).
 
 ## Jeudi, jour 1{{<nbsp>}}: Suuuuurpriiise{{<nbsp>}}!
 
-Rendez-vous sur le parking de [Calamès](http://cafma.free.fr/calames/fr_cal.htm).  
+Nous nous rencontrons tous pour la première fois sur le parking de [Calamès](http://cafma.free.fr/calames/fr_cal.htm).  
 Le bitume est encore un peu humide, alors le temps que ça sèche{{<nbsp>}}: présentation individuelle, niveau et années de pratique de l'escalade, attente vis-à-vis de cette formation et passage en revu du matériel.
 
 C'est pas tout ça mais on commence à se geler alors on remballe et direction le caillou.  
-Au bas des voies, premier atelier avec vérification des connaissances sur les relais et les différentes façon de les équiper. On en profite pour réviser les nœuds{{<nbsp>}}: lesquels et dans quels cas{{<nbsp>}}? Ensuite, on forme les codées et on fait notre choix dans le topo.
+Au bas des voies, premier atelier avec vérification des connaissances sur les relais et les différentes façon de les équiper. On en profite pour réviser les nœuds{{<nbsp>}}: lesquels et dans quels cas{{<nbsp>}}? Ensuite, on forme les cordées et on fait notre choix dans le topo.
 
 ![Relais sur Friends et coinceurs à Calamès](/img/blog/moniteur-gv/calames-details.jpg)
 
-### Objectif{{<nbsp>}}: grimper 4 ou 5 longueurs tranquilles afin que nos deux GO puissent checker que nous étions de bons élèves et que ce que nous avions annoncé correspond à notre pratique.  
+### Objectif{{<nbsp>}}: grimper 4 ou 5 longueurs tranquilles afin que nos deux {{< abbr title="Gentil Organisateur" text="G.O." >}} puissent checker que nous étions de bons élèves et que ce que nous avions annoncé correspond à notre pratique.  
 
-C'est Calamès, les voies faciles sont équipées espacées alors nos GO sortent des jouets surprises.  
+C'est Calamès, les voies faciles sont équipées espacées alors nos {{< abbr title="Gentil Organisateur" text="G.O." >}} sortent des jouets surprises.  
 On va en profiter pour digresser avec une option terrain d'aventure et poser quelques coinceurs, friends et autres joyeusetés qui permettent de grimper lesté.  
 Clairement je ne l'avais pas vu venir et les friends n'étaient plus vraiment mes amis depuis un long dimanche de septembre 2016 (ça fera peut-être l'objet d'un autre récit), mais bref passons…  
 Au final ça m'a fait du bien. J'avais besoin de démystifier un peu la quincaillerie et finalement ils feront parti de l'équipement tout le reste du séjour.
@@ -69,7 +69,7 @@ Au sommet, on retrouvera à nouveau la neige et donc une descente bien rock'n ro
 
 > JE NE SUIS PAS MONTAGNARD BORDEL{{<nbsp>}}!
 
-Non, en vrai c'était une expérience fantastique, dure mais enrichissante, pour moi qui ne fait quasiment que de la couenne sportive.
+Il y a du vrai c'est certain, cependant c'était une expérience fantastique et inoubliable. Dure mais extrèmement enrichissante pour un grimpeur comme moi qui ne fait quasiment que de la couenne sportive.
 
 ![Grimpe au mois de mai à Orlu dans une ambiance féérique](/img/blog/moniteur-gv/orlu-grimpe.jpg)
 
@@ -113,7 +113,7 @@ Au final, je sors tout dans le bon ordre et du premier coup et mon second est sa
 
 ### Verdict, on est tous moniteurs grandes voies et moi je ne suis toujours pas montagnard pour autant{{<nbsp>}}!
 
-Un énorme merci à nos GO pour leur patience, aide, expérience et partage.
+Un énorme merci à nos David et Jean-Paul pour leur patience, leur aide, leur expérience et par dessus tout leur envie de partager.
 
 ---
 
