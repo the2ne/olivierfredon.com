@@ -256,8 +256,8 @@ img {
 }
 
 .logo {
-    width: 300px;
-    max-width: 300px;
+    width: 200px;
+    max-width: 200px;
 }
 
 .navbar {
@@ -503,17 +503,25 @@ img {
 }
 
 @media screen and (min-width: 21em) {
+    .wrapper {
+        background-image: url(/images/bg-medium.jpg);
+    }
     .title {
         font-size: 1.75em
+    }
+    .logo {
+        width: 250px;
+        max-width: 250px;
     }
 }
 
 @media screen and (min-width: 40em) {
-    .wrapper {
-        background-image: url(/images/bg-medium.jpg)
-    }
     .header {
         padding-top: 4em;
+    }
+    .logo {
+        width: 300px;
+        max-width: 300px;
     }
     .content {
         margin: 3em 10%;
