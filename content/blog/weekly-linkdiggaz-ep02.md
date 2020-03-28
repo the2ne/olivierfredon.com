@@ -22,14 +22,14 @@ Vous prendrez bien une seconde salve de liens pour vous occuper, vous cultiver, 
 
 ### les yeux
 
-- 🗺️ [Outside ouvre une plateforme de vidéos gratuites](https://www.outside.fr/films/){{<nbsp>}}: histoire de prendre l'air
+- 🗺️ [Outside lance une plateforme de vidéos gratuites](https://www.outside.fr/films/){{<nbsp>}}: histoire de prendre l'air
 - 📚 [Iron & Air magazine ouvre ses archives](https://magazine.ironandair.com/){{<nbsp>}}: l'intégrale accessible contre un simple e-mail
 - 🕹️ [Monument Valley 2 gratuit sur iOS](https://apps.apple.com/us/app/monument-valley-2/id1187265767?ls=1) et [Android](https://play.google.com/store/apps/details?id=com.ustwo.monumentvalley2){{<nbsp>}}: JUST GO!
 
 ### les mains
 
-- 🖌️ [Coloriage de SinPiggyHead](https://twitter.com/sinpiggyhead/status/1242821006923894786){{<nbsp>}}: il a fait le tri dans ses illus, ni trop gore, ni trop sombre
-- 🖍️ [Coloriage avec concours et lots](https://www.instagram.com/p/B-SVuw4CEkG/){{<nbsp>}}: merci [Hentitan](https://www.instagram.com/hentitan47/){{<nbsp>}}: à vos feutres
+- 🖌️ [Coloriages de SinPiggyHead](https://twitter.com/sinpiggyhead/status/1242821006923894786){{<nbsp>}}: il a fait le tri dans ses illus, ni trop gore, ni trop sombre
+- 🖍️ [Coloriage avec concours et lots](https://www.instagram.com/p/B-SVuw4CEkG/){{<nbsp>}}: merci [Hentitan](https://www.instagram.com/hentitan47/){{<nbsp>}}: à vos feutres ou claviers
 - ✏️ [Cours de dessin](https://www.youtube.com/channel/UCBpgrJijMpk_pyp9uTbxLdg){{<nbsp>}}: marre de colorier ? Rob Biddulph vous apprend à dessiner
 
 ### les oreilles
@@ -48,7 +48,7 @@ Vous prendrez bien une seconde salve de liens pour vous occuper, vous cultiver, 
 
 ### bosser
 
-- 📐 [Morphose par Jérémie Patonnier](https://github.com/JeremiePat/morphose){{<nbsp>}}: une boite à outils pour SVG
+- 📐 [Morphose par Jérémie Patonnier](https://github.com/JeremiePat/morphose){{<nbsp>}}: une boite à outils pour vos SVG
 - 🧰 [Des alternatives aux produits des GAFAM](https://francoischarlet.ch/2020/covid19-liste-non-exhaustive-alternatives-produits-gafam/){{<nbsp>}}: c'est le moment ou jamais de switcher
 - 💻 [Réunion et télétravail](https://nota-bene.org/Telereunion-quelques-conseils){{<nbsp>}}: les conseils avisés de Nota-bene
 
