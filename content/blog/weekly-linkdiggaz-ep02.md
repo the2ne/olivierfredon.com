@@ -2,8 +2,8 @@
 title: "Weekly Linkdiggaz Ep.02"
 description: "Vous prendrez bien une seconde salve de liens pour vous occuper, vous cultiver, vous en mettre plein les mirettes ou plein les esgourdes, voire les deux."
 date: 2020-03-28T11:21:21+01:00
-publishdate: 2020-03-28T11:21:21+01:00
-lastmod: 2020-03-28T11:21:21+01:00
+publishdate: 2020-03-28T11:09:49+01:00
+lastmod: 2020-03-29T11:09:49+01:00
 
 tags: ["www", "links"]
 categories: ["Web"]
@@ -29,7 +29,7 @@ Vous prendrez bien une seconde salve de liens pour vous occuper, vous cultiver, 
 ### les mains
 
 - 🖌️ [Coloriages de SinPiggyHead](https://twitter.com/sinpiggyhead/status/1242821006923894786){{<nbsp>}}: il a fait le tri dans ses illus, ni trop gore, ni trop sombre
-- 🖍️ [Coloriage avec concours et lots](https://www.instagram.com/p/B-SVuw4CEkG/){{<nbsp>}}: merci [Hentitan](https://www.instagram.com/hentitan47/){{<nbsp>}}: à vos feutres ou claviers
+- 🖍️ [Coloriage avec concours et lots](https://www.instagram.com/p/B-SVuw4CEkG/) merci [Hentitan](https://www.instagram.com/hentitan47/){{<nbsp>}}: à vos feutres ou claviers
 - ✏️ [Cours de dessin](https://www.youtube.com/channel/UCBpgrJijMpk_pyp9uTbxLdg){{<nbsp>}}: marre de colorier ? Rob Biddulph vous apprend à dessiner
 
 ### les oreilles
