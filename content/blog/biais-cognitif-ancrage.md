@@ -1,12 +1,12 @@
 ---
-title: "UX, Biais cognitif et effet d'ancrage"
-description: ""
-date: 2020-04-05T11:09:56+01:00
-publishdate: 2020-04-04T11:21:00+01:00
-lastmod: 2020-04-05T11:09:56+01:00
+title: "Conception Web, UX, biais cognitif, effet d'ancrage et un peu d'escalade"
+description: "Derrière un titre prédisposé à remplir une grille de bingo, il ne sera nullement question de paraphraser toute la littérature existante sur les biais cognitifs. Pour appréhender les biais, laissez-moi vous conter une petite histoire. Une histoire d'escalade forcément."
+date: 2020-04-06T11:14:51+01:00
+publishdate: 2020-04-06T11:14:51+01:00
+lastmod: 2020-04-06T11:14:51+01:00
 
-tags: ["biais cognitif", "ancrage"]
-categories: ["escalade"]
+tags: ["biais cognitif", "ancrage", "UX"]
+categories: ["escalade", "web"]
 
 img: ""
 imgalt: ""
@@ -74,7 +74,7 @@ Je commence à trembler sur mes appuis. Le souffle est court, je suis quasiment 
 
 Je commence à essayer de valoriser de toutes petites prises et finalement ça tient, je grimpe. Sans m’en rendre compte je suis arrivé au prochain et dernier point avant le relais. Je me surprends moi-même et relâche ma concentration. Je suis maintenant bien haut, au niveau du point, mais j’ai du mal à tenir les prises et il va pourtant falloir que je lâche une main pour clipper.
 
-Je n’aie même pas le temps de l’envisager vraiment que les deux petites rougnes que je tenais du bout des doigts m’échappent. Je sais que je vais prendre un gros plomb mais je ne sais pas ce que ça fait{{<nbsp>}}!
+Je n’ai même pas le temps de l’envisager vraiment que les deux petites rougnes que je tenais du bout des doigts m’échappent. Je sais que je vais prendre un gros plomb mais je ne sais pas ce que ça fait{{<nbsp>}}!
 
 ### I believe I can fly
 
@@ -108,7 +108,7 @@ Sauf que vous l'avez bien compris, la chute n'y était pour rien dans la blessur
 ## 🤯
 
 J'ai mis du temps à le réaliser et encore plus à passer outre, mais le cerveau fait parfois des choses étranges.  
-Cet ancrage m'a demandé de mobiliser beaucoup de ressources pour revenir à une pratique sereine et un plaisir loin de toute peur (non ça ce n'est pas vrai). Surtout c'est un travail qui n'est jamais vraiment fini et peut resurgir sans prévenir, alors méfiez-vous des biais et d'autant plus si ce sont les votres.
+Cet ancrage m'a demandé de mobiliser beaucoup de ressources pour revenir à une pratique sereine et un plaisir loin de toute peur (non ça ce n'est pas vrai). Surtout c'est un travail qui n'est jamais vraiment fini et ce type de raisonnement fallacieux peut resurgir sans prévenir, alors méfiez-vous des biais et d'autant plus si ce sont les votres.
 
 ## Aller plus loin pour ne pas se prendre les biais dans le plat
 
