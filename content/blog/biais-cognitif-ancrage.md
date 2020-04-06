@@ -7,11 +7,6 @@ lastmod: 2020-04-06T11:14:51+01:00
 
 tags: ["biais cognitif", "ancrage", "UX"]
 categories: ["escalade", "web"]
-
-img: ""
-imgalt: ""
-
-draft: true
 ---
 
 # Conception Web, UX et biais cognitif
