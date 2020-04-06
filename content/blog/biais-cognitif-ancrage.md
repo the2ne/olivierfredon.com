@@ -108,7 +108,7 @@ Sauf que vous l'avez bien compris, la chute n'y était pour rien dans la blessur
 ## 🤯
 
 J'ai mis du temps à le réaliser et encore plus à passer outre, mais le cerveau fait parfois des choses étranges.  
-Cet ancrage m'a demandé de mobiliser beaucoup de ressources pour revenir à une pratique sereine et un plaisir loin de toute peur (non ça ce n'est pas vrai). Surtout c'est un travail qui n'est jamais vraiment fini et peut ressurgir sans prévenir, alors méfiez-vous des biais et d'autant plus si ce sont les votres.
+Cet ancrage m'a demandé de mobiliser beaucoup de ressources pour revenir à une pratique sereine et un plaisir loin de toute peur (non ça ce n'est pas vrai). Surtout c'est un travail qui n'est jamais vraiment fini et peut resurgir sans prévenir, alors méfiez-vous des biais et d'autant plus si ce sont les votres.
 
 ## Aller plus loin pour ne pas se prendre les biais dans le plat
 
