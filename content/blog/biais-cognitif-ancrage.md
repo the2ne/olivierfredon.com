@@ -22,27 +22,26 @@ Commençons tout de même par le commencement, la définition d'un biais cogniti
 
 > **Un biais cognitif est une distorsion dans le traitement cognitif d'une information.** Le terme biais fait référence à une déviation systématique de la pensée logique et rationnelle par rapport à la réalité. Les biais cognitifs conduisent le sujet à accorder des importances différentes à des faits de même nature et peuvent être repérés lorsque des paradoxes ou des erreurs apparaissent dans un raisonnement ou un jugement. (source{{<nbsp>}}: [Wikipédia](https://fr.wikipedia.org/wiki/Biais_cognitif))
 
-
 ## Biais d'ancrage
 
 Parmi la [liste sans fin de biais](https://fr.wikipedia.org/wiki/Biais_cognitif#Liste_de_biais_cognitifs), il en est un que l'on croise très fréquement lorsque l'on fait de la concéption Web{{<nbsp>}}: le biais ou l'effet d'ancrage.
 
 > **En psychologie, l’ancrage désigne la difficulté à se départir d'une première impression.** C'est un biais cognitif qui pousse à se fier à l'information reçue en premier dans une prise de décision.  (source{{<nbsp>}}: [Wikipédia](https://fr.wikipedia.org/wiki/Ancrage_(psychologie)))
 
-Qui n'a jamais été confronté à une telle situation{{<nbsp>}}? Que ce soit dans des paroles rapportées d'utlisateurs, de collaborateurs, d'intervenants directs ou indirects sur un projet, voire tout simplement dans nos propres paroles.
+Qui n'a jamais été confronté à une telle situation{{<nbsp>}}? Que ce soit dans des paroles rapportées d'utlisateurs, de clients, de collaborateurs, d'intervenants directs ou indirects sur un projet, voire tout simplement dans nos propres paroles.
 
 Connaitre les biais et un bon moyen de les identifier et par conséquence de limiter leur portée.  
 On a beau le savoir et y être sensibilisé, les vieux poncifs sont là pour nous le rappeler{{<nbsp>}}: les cordonniers sont toujours les plus mal chaussés.
 
 ## Entorse et grosse frayeur
 
-Comment, vous n'aimez pas les récits d'escalade{{<nbsp>}}? Pourtant je vais une fois de plus partager avec vous une vieille histoire personnelle qui parle de grimpe, mais pas seulement.
+Pour appréhender tout ça plus clairment, laissez moi vous conter une petite histoire. Une histoire d'escalade forcement.
 
 ### Revenons en septembre 2015, à Saint-Géry dans le Lot (46)
 
 Durant une très belle arrière saison, nous profitions de l’été indien pour nous rendre quasiment tous les dimanches sur la barre calcaire emblématique du Lot{{<nbsp>}}: Saint-Géry.
 
-Cela ne fait pas longtemps que je pratique l'escalade et mon niveau est juste par rapport au spot. Cependant j’ai une furieuse envie de progresser et pour çela je sais qu’il faut que je grimpe et grimpe et grimpe encore.
+Cela ne fait pas longtemps que je pratique l'escalade et mon niveau est juste par rapport au spot. Cependant j’ai une furieuse envie de progresser et pour cela je sais, ou crois savoir, qu’il va falloir que je grimpe et grimpe encore.
 
 ### Avant de pouvoir grimper, il faut accéder à la falaise
 
@@ -64,7 +63,7 @@ Je profite de tout le bagage technique et physique accumulé cette année pour e
 ### Toujours plus
 
 Jean-Paul se propose de m’assurer dans «{{<nbsp>}}Le bonheur est dans la voie{{<nbsp>}}» mon premier 6b falaise en tête sans travail préalable.  
-Je stress un peu mais j’y vais. C’est super fin, que des équilibres et donc des clippages super précaires. Je manque de me ramasser à chaque pose de dégaine mais finalement j’avance.  
+Je stresse un peu mais j’y vais. C’est super fin, que des équilibres et donc des clippages super précaires. Je manque de me ramasser à chaque pose de dégaine mais finalement j’avance.  
 Dans ce niveau de difficulté on commence à approcher une autre dimension que je découvre juste{{<nbsp>}}: l’engagement mental. Autant dire qu’à Saint-Géry à partir de cette cotation, c’est sur ce point précisément que ce joue souvent l’enchainement d’une voie.
 
 Au plus je progresse sur la paroie, au plus je me rends compte que les points sont espacés.  
@@ -73,7 +72,7 @@ Je commence à trembler sur mes appuis. Le souffle est court, je suis quasiment 
 
 > «{{<nbsp>}}Allé, vas-y grimpe{{<nbsp>}}!{{<nbsp>}}»
 
-Je commence à essayer de valoriser de toutes petites prises et finalement ça tient, je grimpe. Sans m’en rendre compte je suis arrivé au prochain point. Je me surprends moi même et relâche ma concentration. Je suis maintenant bien haut, au niveau du point, mais j’ai du mal à tenir les prises et il va pourtant falloir que je lâche une main pour clipper.
+Je commence à essayer de valoriser de toutes petites prises et finalement ça tient, je grimpe. Sans m’en rendre compte je suis arrivé au prochain et dernier point avant le relais. Je me surprends moi même et relâche ma concentration. Je suis maintenant bien haut, au niveau du point, mais j’ai du mal à tenir les prises et il va pourtant falloir que je lâche une main pour clipper.
 
 Je n’ai même pas le temps de l’envisager vraiment que les deux petites rougnes que je tenais du bout des doigts m’échappent. Je sais que je vais prendre un gros plomb mais je ne sais pas ce que ça fait{{<nbsp>}}!
 
@@ -81,41 +80,51 @@ Je n’ai même pas le temps de l’envisager vraiment que les deux petites roug
 
 Le rocher file sans fin devant mes yeux grands ouverts. J’ai l’impression que ça ne va jamais s’arrêter. Le brin de corde est tout mou devant moi. Je crois que je crie.
 
-Et puis, plus rien. Tout est calme. Sans choc, sans accou, tout s’est arrêté. Je n’ai rien, pas une égratignure, je n’ai rien tapé. Je suis suspendu dans le vide face à la paroi quasiment deux dégaines dessous la dernière clippée. Joli vol{{<nbsp>}}!
+Et puis, plus rien. Tout est calme. Sans choc, sans accou, tout s’est arrêté. Je n’ai rien, pas une égratignure, je n’ai rien tapé. Je suis suspendu dans le vide face à la paroi deux dégaines dessous la dernière clippée. Joli vol bien dynamisé{{<nbsp>}}!
 
-En bas tout le monde se marre et me chambre. Jean-Paul m’encourage à repartir directement. Avec le recul je sais qu’il avait raison, mais j’ai le coeur à dix mille et je veux retrouver le plancher des vaches.
+En bas tout le monde se marre et me chambre. Jean-Paul m’encourage à repartir directement. Avec le recul je sais qu’il avait raison, mais j’ai le cœur à dix mille et je veux retrouver le plancher des vaches.
 
 ### The End
 
 Je ne repartirai pas dans cette voie et dans aucune autre pour la journée, j’ai mon compte. Je me refroidis, remets les chaussures. Ah{{<nbsp>}}! La marche de retour va être longue, j’ai la cheville qui tire méchamment et poser le pied est difficile.  
 Arrivé au parking, j’enlève à nouveau la pompe. Le pied commence à bleuir et à gonfler.
 
-Entorse ligament externe, attèle 2 mois et 3 mois sans grimper.  
-Fin de saison 2015.
+Entorse ligament externe, attèle 2 mois et 3 mois sans grimper. Fin de ma saison 2015 d'escalade.
 
 ## Ça nous fait une belle jambe tout ça
 
-Vous allez bien, tout le monde est encore là{{<nbsp>}}?
+Où est-ce qu'il veut en venir avec ces histoires de grimpette{{<nbsp>}}?
 
 Une dernière chose à savoir afin d'essayer de retomber sur nos pattes (humour{{<nbsp>}}: jambe, cheville, tout ça, tout ça) c'est tout simplement que ces trois mois sans grimpe furent une période très frustrante à gérer pour moi alors que j'étais en pleine progression dans ma pratique.
 
-Par conséquent lorsque j'ai enfin pu grimper à nouveau j'avais très peur de me blesser et ne voulais surtout pas revivre cette absinance forcée. Ce qui a eu pour effet une très grande appréhention de la chute en tête, je ne voulais surtout pas tomber à nouveau et prendre un gros vol.
+Par conséquent lorsque j'ai enfin pu grimper à nouveau j'avais très peur de me blesser et ne voulais surtout pas revivre cette abstinance forcée. Ce qui a eu pour effet une très grande appréhention de la chute en tête, je ne voulais surtout pas tomber à nouveau et prendre un gros vol.
 
 ### Oh{{<nbsp>}}! Mais que vois-je{{<nbsp>}}? Ne serait-ce pas un biais{{<nbsp>}}?
 
-Et bien si. J'ai mis du temps à le réaliser et encore plus à passer outre, mais le cerveau fait parfois des choses étranges.  
-J'ai associé à ma frustration la première chose qui me venait à l'esprit quand je me remémorais cette journée. L'élément le plus marquant, le plus évident{{<nbsp>}}: la peur. La peur provoqué par la chute.
+Et bien si. J'ai associé à ma frustration la première chose qui me venait à l'esprit quand je me remémorais cette journée. L'élément le plus marquant, le plus évident{{<nbsp>}}: la peur. La peur provoqué par la chute.
 
 Sauf que vous l'avez bien compris, la chute n'y était pour rien dans la blessure qui était survenue le matin même lors de la marche.
 
 ## 🤯
 
-Oui, on pourrait très bien y voir d'autres biais, à vous de choisir et d'apprendre à les identitifer{{<nbsp>}}:
+J'ai mis du temps à le réaliser et encore plus à passer outre, mais le cerveau fait parfois des choses étranges.  
+Cet ancrage m'a demandé de mobiliser beaucoup de ressources pour revenir à une pratique sereine et un plaisir loin de toute peur (non ça ce n'est pas vrai). Surtout c'est un travail qui n'est jamais vraiment fini et peut ressurgir sans prévenir, alors méfiez-vous des biais et d'autant plus si ce sont les votres.
 
-- Biais de confirmation{{<nbsp>}}: voler ça fait peur, on peut se faire mal, faut pas voler
-- Perception sélective{{<nbsp>}}: je n'aime pas voler, alors si en plus on peut se blesser c'est sûr il ne faut pas voler
-- Erreur de conjonction{{<nbsp>}}: lorsque l'on chute, on peut prendre un gros vol ou on peut prendre un gros vol et se blesser ?
+## Aller plus loin pour ne pas se prendre les biais dans le plat
+
+Dans cette même histoire, on aurait très bien pû y voir d'autres biais, à vous de choisir et d'apprendre à les identitifer{{<nbsp>}}:
+
+- *Biais de confirmation*{{<nbsp>}}: voler ça fait peur, on peut se faire mal, faut pas voler
+- *Perception sélective*{{<nbsp>}}: je n'aime pas voler, alors si en plus on peut se blesser c'est sûr il ne faut pas voler
+- *Erreur de conjonction*{{<nbsp>}}: lorsque l'on chute, on peut prendre un gros vol ou on peut prendre un gros vol et se blesser ?
 - …
+
+Beaucoup de personnes ont déjà traité et listé les biais alors n'hésitez pas à prendre le temps de lire tout ça :
+
+- [Qu'est-ce que les biais cognitif{{<nbsp>}}?](https://www.usabilis.com/definition-biais-cognitifs/)
+- [Les biais cognitifs, côté recherche UX](https://www.lunaweb.fr/blog/biais-cognitifs/)
+- [Liste de 52 biais cognitifs](https://uxinlux.github.io/cognitive-biases/52-liste-fr/)
+- [À la découverte des biais cognitifs](https://stephaniewalter.design/fr/blog/a-la-decouverte-des-biais-cognitifs-le-jeu-de-52-cartes/)
 
 ---
 
