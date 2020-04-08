@@ -1,0 +1,132 @@
+////
+/// Global rules
+////
+
+@-ms-viewport { width: device-width; }
+
+* {
+    @include _border-box();
+    &:after, &:before {
+        @include _border-box();
+    }
+}
+
+img { -ms-interpolation-mode: bicubic; }
+
+// Fix for Android
+body {
+    -webkit-animation: bugfix infinite 1s;
+}
+
+@-webkit-keyframes bugfix {
+    from { padding: 0; }
+    to { padding: 0; }
+}
+
+// Helpers
+
+.visua11y-hidden {
+    border: 0;
+    clip: rect(1px 1px 1px 1px); /* for Internet Explorer */
+    clip: rect(1px, 1px, 1px, 1px);
+    height: 1px; width: 1px;
+    margin: -1px; padding: 0;
+    position: absolute;
+    overflow: hidden;
+}
+
+// Links
+
+a {
+    color: $light;
+    cursor: pointer;
+    transition: color 1s ease;
+}
+a:hover { color: $contrast; }
+a:focus { color: $base; }
+a:active { color: $black; }
+
+// HTML elements
+
+blockquote {
+    @include _background-opacity($white, .1);
+    border-left: 4px solid $contrast;
+    font-size: $fontMedium;
+    font-style: italic;
+    margin: 1.5em 0;
+    padding: .5em 1em
+}
+
+abbr[title] {
+    border-bottom: 1px dotted $contrast;
+    text-decoration: none;
+    cursor: help;
+}
+
+hr {
+    border: 0;
+    border-bottom: 1px solid $neutral;
+    background: transparent;
+    margin-top: 2em;
+}
+
+hr + p { // Trop spécifique
+    font-size: $fontSmall;
+}
+
+img {
+    max-width: 100%;
+}
+
+img,
+a:link img,
+a:visited img {
+    border-style: none
+}
+img[alt] {
+    color: $contrast;
+    font-style: italic;
+}
+
+// Big picture
+
+.big-picture {
+    margin: -1em -2em 1em;
+    position: relative;
+
+    img {
+        border-bottom: 1px solid $contrast;
+    }
+    
+    figcaption {
+        color: $contrast;
+        font-size: $fontSmall;
+        font-style: italic;
+        margin: 0 auto 1em;
+        text-align: center;
+        visibility: hidden;
+    }
+}
+
+@media screen and (min-width: 40em) {
+    .big-picture {
+        margin: -1em -3em 1em;
+
+        figcaption {
+            @include _background-opacity($contrast, .8);
+            color: $base;
+            font-size: $fontSmall;
+            margin: 0 auto;
+            padding: 1em;
+            position: absolute;
+            bottom: 2.5em;
+            right: 0;
+            text-align: center;
+            visibility: hidden;
+        }
+    }
+
+    .big-picture:hover figcaption {
+        visibility: visible;
+    }
+}

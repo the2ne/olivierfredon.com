@@ -1,0 +1,37 @@
+////
+/// Typography
+////
+
+html {
+    color: $white;
+    font-size: $fontSize;
+    font-variant-ligatures: common-ligatures;
+    text-rendering: optimizeLegibility;
+}
+
+h1, .h1,
+h2, .h2,
+h3, .h3,
+h4, .h4 {
+    font-family: $fontFamilyAlternative;
+}
+
+h1, .h1 {
+    font-size: ($fontSize*2)/1.125; //eq 36px
+    font-weight: bold;
+    margin-bottom: 0;
+    margin-top: 0
+}
+
+h2, .h2 {
+    font-size: ($fontSize*1.556)/1.125; //eq 28px
+    font-weight: normal;
+    margin-bottom: 1em;
+    margin-top: 0
+}
+
+h3, .h3 {
+    font-size: ($fontSize*1.333)/1.125; //eq 24px
+    font-weight: normal;
+    color: $contrast;
+}

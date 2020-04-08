@@ -1,0 +1,27 @@
+////
+/// Configuration and Customization
+////
+
+
+// Typography
+
+$fontFamily: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+$fontFamilyAlternative: "Roboto Slab", "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+
+$fontSize: 1.125em; // eq 18px;
+$baseline: 1.5;
+
+$fontSmall: ($fontSize*0.889)/1.125; // eq 16px;
+$fontMedium: ($fontSize*1.333)/1.125; // eq 24px;
+$fontLarge: ($fontSize*1.778)/1.125; // eq 32px;
+
+
+// ColorScheme
+
+$black: #000;
+$white: #FFF;
+
+$neutral: #777;
+$light: #c0c0c0;
+$base: #333;
+$contrast: #ddc79d;
