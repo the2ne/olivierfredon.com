@@ -1,0 +1,103 @@
+////
+/// Navigation : header and footer
+////
+
+.navbar {
+    color: $light;
+    display: block;
+    list-style-type: none;
+    margin: 1em 2em;
+    padding: 0;
+    text-align: center;
+}
+
+.navbar>* {
+    display: inline-block
+}
+
+.navbar>* a {
+    color: $light;
+    background-color: $black;
+    background-color: rgba(0, 0, 0, 0.2);
+    border: 1px solid $light;
+    border-radius: 3px;
+    padding: .25em .5em;
+    text-decoration: none;
+    transition: all 1s ease
+}
+
+.navbar>* a:hover {
+    color: $contrast;
+    border-color: $contrast;
+    background-color: $black;
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
+.navbar>* a:focus {
+    color: $white;
+    border-color: $white;
+}
+
+.navbar>* a:active {
+    color: $neutral;
+    border-color: $neutral;
+}
+
+.navbar li:not(:first-child) {
+    margin-left: 1em
+}
+
+
+.external-links {
+    text-align: center;
+}
+
+
+.external-links p {
+    font-size: .8888em;
+}
+
+.social-networks {
+    display: inline-block;
+    list-style-type: none;
+    margin: 1em auto;
+    padding: 0
+}
+
+.social-networks + p {
+    margin: 0 auto 1em;
+}
+
+.social-networks>* {
+    display: inline-block
+}
+
+.social-networks li+li {
+    margin-left: .5em
+}
+
+.social-networks .svg {
+    fill: $white;
+    fill-rule: evenodd;
+    width: 1.5em;
+    height: 100%;
+    transition: fill 1s ease
+}
+
+.social-networks a:visited .svg {
+    fill: $neutral
+}
+
+.social-networks a:hover .svg {
+    fill: $contrast
+}
+
+.credits {
+    margin: 1em auto;
+    text-align: center
+}
+
+.credits .featured {
+    list-style-type: none;
+    padding-left: 0
+}

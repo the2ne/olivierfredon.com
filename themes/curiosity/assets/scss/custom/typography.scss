@@ -1,0 +1,57 @@
+////
+/// Typography
+////
+
+html {
+    color: $white;
+    font-size: $fontSize;
+    font-variant-ligatures: common-ligatures;
+    text-rendering: optimizeLegibility;
+}
+
+h1, .h1,
+h2, .h2,
+h3, .h3,
+h4, .h4 {
+    font-family: $fontFamilyAlternative;
+}
+
+h1, .h1 {
+    font-size: 2em;
+    font-weight: bold;
+    margin-bottom: 0;
+    margin-top: 0
+}
+
+h2, .h2 {
+    font-size: $fontSize;
+    font-weight: normal;
+    margin-bottom: 1em;
+    margin-top: 0
+}
+
+h3, .h3 {
+    font-size: 1.333em;
+    font-weight: normal;
+    color: $contrast;
+}
+
+// Medium breakpoint
+@media screen and (min-width: 40em) {
+    h1 { font-size: $fontSize * 3; }
+    h2 { font-size: $fontSize * 2.5; }
+    h3 { font-size: $fontSize * 2; }
+    h4 { font-size: $fontSize * 1.75; }
+    h5 { font-size: $fontSize * 1.25; }
+    h6 { font-size: $fontSize * 1; }
+}
+
+// Desktop breakpoint
+@media screen and (min-width: 60em) {
+    h1 { font-size: $fontSize * 4.5; }
+    h2 { font-size: $fontSize * 3; }
+    h3 { font-size: $fontSize * 2.5; }
+    h4 { font-size: $fontSize * 2; }
+    h5 { font-size: $fontSize * 1.5; }
+    h6 { font-size: $fontSize * 1; }
+}

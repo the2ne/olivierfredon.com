@@ -1,0 +1,132 @@
+////
+/// Global rules
+////
+
+@-ms-viewport { width: device-width; }
+
+* {
+    @include _border-box();
+    &:after, &:before {
+        @include _border-box();
+    }
+}
+
+img { -ms-interpolation-mode: bicubic; }
+
+// Fix for Android
+body {
+    -webkit-animation: bugfix infinite 1s;
+}
+
+@-webkit-keyframes bugfix {
+    from { padding: 0; }
+    to { padding: 0; }
+}
+
+// Helpers
+
+.visua11y-hidden {
+    border: 0;
+    clip: rect(1px 1px 1px 1px); /* for Internet Explorer */
+    clip: rect(1px, 1px, 1px, 1px);
+    height: 1px; width: 1px;
+    margin: -1px; padding: 0;
+    position: absolute;
+    overflow: hidden;
+}
+
+// Links
+
+a {
+    color: $light;
+    cursor: pointer;
+    transition: color 1s ease;
+}
+a:hover { color: $contrast; }
+a:focus { color: $base; }
+a:active { color: $black; }
+
+// HTML elements
+
+blockquote {
+    @include _background-opacity($white, .3);
+    border-left: 4px solid $white;
+    font-size: $fontSize * 1.25; // A vérifier
+    font-style: italic;
+    margin: 1.5em 0;
+    padding: .5em 1em
+}
+
+abbr {
+    border-bottom: 1px dotted $contrast;
+    text-decoration: none;
+    cursor: help;
+}
+
+hr {
+    border: 0;
+    border-bottom: 1px solid $neutral;
+    background: transparent;
+    margin-top: 2em;
+}
+
+hr + p {
+    font-size: .8888em; // Trop spécifique
+}
+
+img {
+    max-width: 100%;
+}
+
+img,
+a:link img,
+a:visited img {
+    border-style: none
+}
+img[alt] {
+    color: $contrast;
+    font-style: italic;
+}
+
+// Big picture blog composant
+
+.big-picture {
+    margin: -1em -2em 1em;
+    position: relative;
+
+    img {
+        border-bottom: 1px solid $contrast;
+    }
+    
+    figcaption {
+        color: $contrast;
+        font-size: .8888em;
+        font-style: italic;
+        margin: 0 auto 1em;
+        text-align: center;
+        visibility: hidden;
+    }
+}
+
+@media screen and (min-width: 40em) {
+    .big-picture {
+        margin: -1em -3em 1em;
+
+        figcaption {
+            background-color:rgba(221, 199, 157, .8);
+            color: #333;
+            font-size: .8888em;
+            margin: 0 auto;
+            padding: .8888em 1em;
+            position: absolute;
+            bottom: 2.5em;
+            right: 0;
+            text-align: center;
+            visibility: hidden;
+        }
+    }
+
+    .big-picture:hover figcaption {
+        visibility: visible;
+    }
+}

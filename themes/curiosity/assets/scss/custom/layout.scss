@@ -1,0 +1,92 @@
+
+////
+/// Layout
+////
+
+.wrapper {
+    background: url(/images/bg-small.jpg) no-repeat center center fixed #333;
+    background-size: cover;
+    color: #fff;
+}
+
+.header {
+    text-align: center;
+    margin: 0 auto;
+    padding-top: 3em;
+}
+
+.content {
+    margin: 2em 0;
+    padding: 1em 2em;
+    background-color: #000;
+    background-color: rgba(0, 0, 0, 0.666);
+}
+
+@media screen and (min-width: 21em) {
+    .wrapper {
+        background-image: url(/images/bg-medium.jpg);
+    }
+}
+
+@media screen and (min-width: 40em) {
+    .header {
+        padding-top: 4em;
+    }
+    .content {
+        margin: 3em 10%;
+        padding: 1em 3em
+    }
+}
+
+
+@media screen and (min-width: 60em) {
+    .wrapper {
+        background-image: url(/images/bg-large.jpg)
+    }
+    .header {
+        padding-top: 5em;
+    }
+    .content {
+        margin: 3em 20%
+    }
+}
+
+// TODO clean up and specificity
+
+.logo {
+    width: 200px;
+    max-width: 200px;
+}
+
+@media screen and (min-width: 21em) {
+    .title {
+        font-size: 1.75em
+    }
+    .logo {
+        width: 250px;
+        max-width: 250px;
+    }
+}
+
+@media screen and (min-width: 40em) {
+    .logo {
+        width: 300px;
+        max-width: 300px;
+    }
+}
+
+// Page typology
+
+.blog .content footer {
+    border-top: 1px solid $neutral;
+    color: $neutral;
+    font-size: .8888em;
+    margin-top: 1em;
+    text-align: center;
+}
+
+.list .content article {
+    border-top: 1px solid $contrast;
+    margin-top: 2em;
+    padding-top: 2em;
+}
