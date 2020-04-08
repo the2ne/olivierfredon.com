@@ -1,9 +1,21 @@
 @charset "utf-8";
 
+// Font
+@import url('https://fonts.googleapis.com/css?family=Roboto+Slab&display=swap');
+
+// Settings
 @import
         "_settings",
-        "_mixins",
-        "vendor/normalize",
+        "_mixins"
+;
+
+// Libraries
+@import
+        "vendor/normalize"
+;
+
+// Components
+@import
         "custom/global",
         "custom/layout",
         "custom/navigation",
