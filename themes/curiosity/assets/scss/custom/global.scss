@@ -51,13 +51,13 @@ a:active { color: $black; }
 blockquote {
     @include _background-opacity($white, .1);
     border-left: 4px solid $contrast;
-    font-size: $fontSize * 1.25; // A vérifier
+    font-size: $fontMedium;
     font-style: italic;
     margin: 1.5em 0;
     padding: .5em 1em
 }
 
-abbr {
+abbr[title] {
     border-bottom: 1px dotted $contrast;
     text-decoration: none;
     cursor: help;

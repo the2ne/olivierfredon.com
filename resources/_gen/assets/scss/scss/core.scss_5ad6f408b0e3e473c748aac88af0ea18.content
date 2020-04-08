@@ -421,12 +421,12 @@ blockquote {
   /* The Fallback */
   background-color: rgba(255, 255, 255, 0.1);
   border-left: 4px solid #ddc79d;
-  font-size: 1.40625em;
+  font-size: 1.333em;
   font-style: italic;
   margin: 1.5em 0;
   padding: .5em 1em; }
 
-abbr {
+abbr[title] {
   border-bottom: 1px dotted #ddc79d;
   text-decoration: none;
   cursor: help; }
@@ -438,7 +438,7 @@ hr {
   margin-top: 2em; }
 
 hr + p {
-  font-size: 1.000125em; }
+  font-size: 0.889em; }
 
 img {
   max-width: 100%; }
@@ -459,7 +459,7 @@ img[alt] {
     border-bottom: 1px solid #ddc79d; }
   .big-picture figcaption {
     color: #ddc79d;
-    font-size: 1.000125em;
+    font-size: 0.889em;
     font-style: italic;
     margin: 0 auto 1em;
     text-align: center;
@@ -473,7 +473,7 @@ img[alt] {
       /* The Fallback */
       background-color: rgba(221, 199, 157, 0.8);
       color: #333;
-      font-size: 1.000125em;
+      font-size: 0.889em;
       margin: 0 auto;
       padding: 1em;
       position: absolute;
@@ -539,7 +539,7 @@ img[alt] {
 .blog .content footer {
   border-top: 1px solid #777;
   color: #777;
-  font-size: 1.000125em;
+  font-size: 0.889em;
   margin-top: 1em;
   text-align: center; }
 
@@ -606,7 +606,7 @@ img[alt] {
     .links .social-networks a:hover .svg {
       fill: #ddc79d; }
   .links .legals {
-    font-size: 1.000125em; }
+    font-size: 0.889em; }
 
 html {
   color: #FFF;
@@ -621,19 +621,19 @@ h4, .h4 {
   font-family: "Roboto Slab", "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace; }
 
 h1, .h1 {
-  font-size: 2.25em;
+  font-size: 2em;
   font-weight: bold;
   margin-bottom: 0;
   margin-top: 0; }
 
 h2, .h2 {
-  font-size: 1.7505em;
+  font-size: 1.556em;
   font-weight: normal;
   margin-bottom: 1em;
   margin-top: 0; }
 
 h3, .h3 {
-  font-size: 1.499625em;
+  font-size: 1.333em;
   font-weight: normal;
   color: #ddc79d; }
 

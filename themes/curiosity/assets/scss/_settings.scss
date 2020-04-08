@@ -11,9 +11,9 @@ $fontFamilyAlternative: "Roboto Slab", "Courier New", Courier, "Lucida Sans Type
 $fontSize: 1.125em; // eq 18px;
 $baseline: 1.5;
 
-$fontSmall: $fontSize*0.889; // eq 16px;
-$fontMedium: $fontSize*1.333; // eq 24px;
-$fontLarge: $fontSize*1.778; // eq 32px;
+$fontSmall: ($fontSize*0.889)/1.125; // eq 16px;
+$fontMedium: ($fontSize*1.333)/1.125; // eq 24px;
+$fontLarge: ($fontSize*1.778)/1.125; // eq 32px;
 
 
 // ColorScheme
