@@ -49,8 +49,8 @@ a:active { color: $black; }
 // HTML elements
 
 blockquote {
-    @include _background-opacity($white, .3);
-    border-left: 4px solid $white;
+    @include _background-opacity($white, .1);
+    border-left: 4px solid $contrast;
     font-size: $fontSize * 1.25; // A vérifier
     font-style: italic;
     margin: 1.5em 0;
@@ -70,8 +70,8 @@ hr {
     margin-top: 2em;
 }
 
-hr + p {
-    font-size: .8888em; // Trop spécifique
+hr + p { // Trop spécifique
+    font-size: $fontSmall;
 }
 
 img {
@@ -88,7 +88,7 @@ img[alt] {
     font-style: italic;
 }
 
-// Big picture blog composant
+// Big picture
 
 .big-picture {
     margin: -1em -2em 1em;
@@ -100,7 +100,7 @@ img[alt] {
     
     figcaption {
         color: $contrast;
-        font-size: .8888em;
+        font-size: $fontSmall;
         font-style: italic;
         margin: 0 auto 1em;
         text-align: center;
@@ -113,11 +113,11 @@ img[alt] {
         margin: -1em -3em 1em;
 
         figcaption {
-            background-color:rgba(221, 199, 157, .8);
-            color: #333;
-            font-size: .8888em;
+            @include _background-opacity($contrast, .8);
+            color: $base;
+            font-size: $fontSmall;
             margin: 0 auto;
-            padding: .8888em 1em;
+            padding: 1em;
             position: absolute;
             bottom: 2.5em;
             right: 0;

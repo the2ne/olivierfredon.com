@@ -419,8 +419,8 @@ a:active {
 blockquote {
   background-color: #FFF;
   /* The Fallback */
-  background-color: rgba(255, 255, 255, 0.3);
-  border-left: 4px solid #FFF;
+  background-color: rgba(255, 255, 255, 0.1);
+  border-left: 4px solid #ddc79d;
   font-size: 1.40625em;
   font-style: italic;
   margin: 1.5em 0;
@@ -438,7 +438,7 @@ hr {
   margin-top: 2em; }
 
 hr + p {
-  font-size: .8888em; }
+  font-size: 1.000125em; }
 
 img {
   max-width: 100%; }
@@ -459,7 +459,7 @@ img[alt] {
     border-bottom: 1px solid #ddc79d; }
   .big-picture figcaption {
     color: #ddc79d;
-    font-size: .8888em;
+    font-size: 1.000125em;
     font-style: italic;
     margin: 0 auto 1em;
     text-align: center;
@@ -469,11 +469,13 @@ img[alt] {
   .big-picture {
     margin: -1em -3em 1em; }
     .big-picture figcaption {
+      background-color: #ddc79d;
+      /* The Fallback */
       background-color: rgba(221, 199, 157, 0.8);
       color: #333;
-      font-size: .8888em;
+      font-size: 1.000125em;
       margin: 0 auto;
-      padding: .8888em 1em;
+      padding: 1em;
       position: absolute;
       bottom: 2.5em;
       right: 0;
@@ -485,26 +487,29 @@ img[alt] {
 .wrapper {
   background: url(/images/bg-small.jpg) no-repeat center center fixed #333;
   background-size: cover;
-  color: #fff; }
+  color: #FFF; }
+
+@media screen and (min-width: 21em) {
+  .wrapper {
+    background-image: url(/images/bg-medium.jpg); } }
 
 .header {
   text-align: center;
   margin: 0 auto;
   padding-top: 3em; }
 
+@media screen and (min-width: 40em) {
+  .header {
+    padding-top: 4em; } }
+
 .content {
   margin: 2em 0;
   padding: 1em 2em;
   background-color: #000;
+  /* The Fallback */
   background-color: rgba(0, 0, 0, 0.666); }
 
-@media screen and (min-width: 21em) {
-  .wrapper {
-    background-image: url(/images/bg-medium.jpg); } }
-
 @media screen and (min-width: 40em) {
-  .header {
-    padding-top: 4em; }
   .content {
     margin: 3em 10%;
     padding: 1em 3em; } }
@@ -522,8 +527,6 @@ img[alt] {
   max-width: 200px; }
 
 @media screen and (min-width: 21em) {
-  .title {
-    font-size: 1.75em; }
   .logo {
     width: 250px;
     max-width: 250px; } }
@@ -536,7 +539,7 @@ img[alt] {
 .blog .content footer {
   border-top: 1px solid #777;
   color: #777;
-  font-size: .8888em;
+  font-size: 1.000125em;
   margin-top: 1em;
   text-align: center; }
 
@@ -552,78 +555,58 @@ img[alt] {
   margin: 1em 2em;
   padding: 0;
   text-align: center; }
+  .navbar > * {
+    display: inline-block; }
+    .navbar > * a {
+      color: #c0c0c0;
+      background-color: #000;
+      /* The Fallback */
+      background-color: rgba(0, 0, 0, 0.2);
+      border: 1px solid #c0c0c0;
+      border-radius: 3px;
+      padding: .25em .5em;
+      text-decoration: none;
+      transition: all 1s ease; }
+    .navbar > * a:hover {
+      color: #ddc79d;
+      border-color: #ddc79d;
+      background-color: #000;
+      /* The Fallback */
+      background-color: rgba(0, 0, 0, 0.7); }
+    .navbar > * a:focus {
+      color: #FFF;
+      border-color: #FFF; }
+    .navbar > * a:active {
+      color: #777;
+      border-color: #777; }
+  .navbar li:not(:first-child) {
+    margin-left: 1em; }
 
-.navbar > * {
-  display: inline-block; }
-
-.navbar > * a {
-  color: #c0c0c0;
-  background-color: #000;
-  background-color: rgba(0, 0, 0, 0.2);
-  border: 1px solid #c0c0c0;
-  border-radius: 3px;
-  padding: .25em .5em;
-  text-decoration: none;
-  transition: all 1s ease; }
-
-.navbar > * a:hover {
-  color: #ddc79d;
-  border-color: #ddc79d;
-  background-color: #000;
-  background-color: rgba(0, 0, 0, 0.7); }
-
-.navbar > * a:focus {
-  color: #FFF;
-  border-color: #FFF; }
-
-.navbar > * a:active {
-  color: #777;
-  border-color: #777; }
-
-.navbar li:not(:first-child) {
-  margin-left: 1em; }
-
-.external-links {
+.links {
   text-align: center; }
-
-.external-links p {
-  font-size: .8888em; }
-
-.social-networks {
-  display: inline-block;
-  list-style-type: none;
-  margin: 1em auto;
-  padding: 0; }
-
-.social-networks + p {
-  margin: 0 auto 1em; }
-
-.social-networks > * {
-  display: inline-block; }
-
-.social-networks li + li {
-  margin-left: .5em; }
-
-.social-networks .svg {
-  fill: #FFF;
-  fill-rule: evenodd;
-  width: 1.5em;
-  height: 100%;
-  transition: fill 1s ease; }
-
-.social-networks a:visited .svg {
-  fill: #777; }
-
-.social-networks a:hover .svg {
-  fill: #ddc79d; }
-
-.credits {
-  margin: 1em auto;
-  text-align: center; }
-
-.credits .featured {
-  list-style-type: none;
-  padding-left: 0; }
+  .links .social-networks {
+    display: inline-block;
+    list-style-type: none;
+    margin: 1em auto;
+    padding: 0; }
+    .links .social-networks + p {
+      margin: 0 auto 1em; }
+    .links .social-networks > * {
+      display: inline-block; }
+    .links .social-networks li + li {
+      margin-left: .5em; }
+    .links .social-networks .svg {
+      fill: #FFF;
+      fill-rule: evenodd;
+      width: 1.5em;
+      height: 100%;
+      transition: fill 1s ease; }
+    .links .social-networks a:visited .svg {
+      fill: #777; }
+    .links .social-networks a:hover .svg {
+      fill: #ddc79d; }
+  .links .legals {
+    font-size: 1.000125em; }
 
 html {
   color: #FFF;
@@ -638,48 +621,20 @@ h4, .h4 {
   font-family: "Roboto Slab", "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace; }
 
 h1, .h1 {
-  font-size: 2em;
+  font-size: 2.25em;
   font-weight: bold;
   margin-bottom: 0;
   margin-top: 0; }
 
 h2, .h2 {
-  font-size: 1.125em;
+  font-size: 1.7505em;
   font-weight: normal;
   margin-bottom: 1em;
   margin-top: 0; }
 
 h3, .h3 {
-  font-size: 1.333em;
+  font-size: 1.499625em;
   font-weight: normal;
   color: #ddc79d; }
-
-@media screen and (min-width: 40em) {
-  h1 {
-    font-size: 3.375em; }
-  h2 {
-    font-size: 2.8125em; }
-  h3 {
-    font-size: 2.25em; }
-  h4 {
-    font-size: 1.96875em; }
-  h5 {
-    font-size: 1.40625em; }
-  h6 {
-    font-size: 1.125em; } }
-
-@media screen and (min-width: 60em) {
-  h1 {
-    font-size: 5.0625em; }
-  h2 {
-    font-size: 3.375em; }
-  h3 {
-    font-size: 2.8125em; }
-  h4 {
-    font-size: 2.25em; }
-  h5 {
-    font-size: 1.6875em; }
-  h6 {
-    font-size: 1.125em; } }
 
 /*# sourceMappingURL=style.css.map */

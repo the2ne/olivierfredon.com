@@ -17,41 +17,21 @@ h4, .h4 {
 }
 
 h1, .h1 {
-    font-size: 2em;
+    font-size: $fontSize*2; //eq 36px
     font-weight: bold;
     margin-bottom: 0;
     margin-top: 0
 }
 
 h2, .h2 {
-    font-size: $fontSize;
+    font-size: $fontSize*1.556; //eq 28px
     font-weight: normal;
     margin-bottom: 1em;
     margin-top: 0
 }
 
 h3, .h3 {
-    font-size: 1.333em;
+    font-size: $fontSize*1.333; //eq 24px
     font-weight: normal;
     color: $contrast;
-}
-
-// Medium breakpoint
-@media screen and (min-width: 40em) {
-    h1 { font-size: $fontSize * 3; }
-    h2 { font-size: $fontSize * 2.5; }
-    h3 { font-size: $fontSize * 2; }
-    h4 { font-size: $fontSize * 1.75; }
-    h5 { font-size: $fontSize * 1.25; }
-    h6 { font-size: $fontSize * 1; }
-}
-
-// Desktop breakpoint
-@media screen and (min-width: 60em) {
-    h1 { font-size: $fontSize * 4.5; }
-    h2 { font-size: $fontSize * 3; }
-    h3 { font-size: $fontSize * 2.5; }
-    h4 { font-size: $fontSize * 2; }
-    h5 { font-size: $fontSize * 1.5; }
-    h6 { font-size: $fontSize * 1; }
 }

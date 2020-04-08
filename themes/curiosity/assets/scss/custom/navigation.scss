@@ -2,6 +2,8 @@
 /// Navigation : header and footer
 ////
 
+// Header Navbar
+
 .navbar {
     color: $light;
     display: block;
@@ -9,95 +11,84 @@
     margin: 1em 2em;
     padding: 0;
     text-align: center;
+
+    >* {
+        display: inline-block;
+    
+        a {
+            color: $light;
+            @include _background-opacity($black, .2);
+            border: 1px solid $light;
+            border-radius: 3px;
+            padding: .25em .5em;
+            text-decoration: none;
+            transition: all 1s ease
+        }
+    
+        a:hover {
+            color: $contrast;
+            border-color: $contrast;
+            @include _background-opacity($black, .7);
+        }
+    
+        a:focus {
+            color: $white;
+            border-color: $white;
+        }
+    
+        a:active {
+            color: $neutral;
+            border-color: $neutral;
+        }
+    }
+
+    li:not(:first-child) {
+        margin-left: 1em
+    }
 }
 
-.navbar>* {
-    display: inline-block
-}
-
-.navbar>* a {
-    color: $light;
-    background-color: $black;
-    background-color: rgba(0, 0, 0, 0.2);
-    border: 1px solid $light;
-    border-radius: 3px;
-    padding: .25em .5em;
-    text-decoration: none;
-    transition: all 1s ease
-}
-
-.navbar>* a:hover {
-    color: $contrast;
-    border-color: $contrast;
-    background-color: $black;
-    background-color: rgba(0, 0, 0, 0.7);
-}
-
-.navbar>* a:focus {
-    color: $white;
-    border-color: $white;
-}
-
-.navbar>* a:active {
-    color: $neutral;
-    border-color: $neutral;
-}
-
-.navbar li:not(:first-child) {
-    margin-left: 1em
-}
+// Footer external links and legals
 
 
-.external-links {
+.links {
     text-align: center;
-}
 
+    .social-networks {
+        display: inline-block;
+        list-style-type: none;
+        margin: 1em auto;
+        padding: 0;
+    
+        + p {
+            margin: 0 auto 1em;
+        }
+        
+        >* {
+            display: inline-block
+        }
+        
+        li+li {
+            margin-left: .5em
+        }
+        
+        .svg {
+            fill: $white;
+            fill-rule: evenodd;
+            width: 1.5em;
+            height: 100%;
+            transition: fill 1s ease
+        }
+        
+        a:visited .svg {
+            fill: $neutral
+        }
+        
+        a:hover .svg {
+            fill: $contrast
+        }
+    }
 
-.external-links p {
-    font-size: .8888em;
-}
-
-.social-networks {
-    display: inline-block;
-    list-style-type: none;
-    margin: 1em auto;
-    padding: 0
-}
-
-.social-networks + p {
-    margin: 0 auto 1em;
-}
-
-.social-networks>* {
-    display: inline-block
-}
-
-.social-networks li+li {
-    margin-left: .5em
-}
-
-.social-networks .svg {
-    fill: $white;
-    fill-rule: evenodd;
-    width: 1.5em;
-    height: 100%;
-    transition: fill 1s ease
-}
-
-.social-networks a:visited .svg {
-    fill: $neutral
-}
-
-.social-networks a:hover .svg {
-    fill: $contrast
-}
-
-.credits {
-    margin: 1em auto;
-    text-align: center
-}
-
-.credits .featured {
-    list-style-type: none;
-    padding-left: 0
+    .legals {
+        font-size: $fontSmall;
+    }
 }

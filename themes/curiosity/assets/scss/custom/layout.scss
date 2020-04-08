@@ -4,22 +4,9 @@
 ////
 
 .wrapper {
-    background: url(/images/bg-small.jpg) no-repeat center center fixed #333;
+    background: url(/images/bg-small.jpg) no-repeat center center fixed $base;
     background-size: cover;
-    color: #fff;
-}
-
-.header {
-    text-align: center;
-    margin: 0 auto;
-    padding-top: 3em;
-}
-
-.content {
-    margin: 2em 0;
-    padding: 1em 2em;
-    background-color: #000;
-    background-color: rgba(0, 0, 0, 0.666);
+    color: $white;
 }
 
 @media screen and (min-width: 21em) {
@@ -28,16 +15,30 @@
     }
 }
 
+.header {
+    text-align: center;
+    margin: 0 auto;
+    padding-top: 3em;
+}
+
 @media screen and (min-width: 40em) {
     .header {
         padding-top: 4em;
     }
+}
+
+.content {
+    margin: 2em 0;
+    padding: 1em 2em;
+    @include _background-opacity($black, .666);
+}
+
+@media screen and (min-width: 40em) {
     .content {
         margin: 3em 10%;
         padding: 1em 3em
     }
 }
-
 
 @media screen and (min-width: 60em) {
     .wrapper {
@@ -59,9 +60,6 @@
 }
 
 @media screen and (min-width: 21em) {
-    .title {
-        font-size: 1.75em
-    }
     .logo {
         width: 250px;
         max-width: 250px;
@@ -75,12 +73,12 @@
     }
 }
 
-// Page typology
+// Page typology and specific sections
 
 .blog .content footer {
     border-top: 1px solid $neutral;
     color: $neutral;
-    font-size: .8888em;
+    font-size: $fontSmall;
     margin-top: 1em;
     text-align: center;
 }

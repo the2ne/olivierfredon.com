@@ -7,8 +7,13 @@
 
 $fontFamily: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 $fontFamilyAlternative: "Roboto Slab", "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
-$fontSize: 1.125em;
+
+$fontSize: 1.125em; // eq 18px;
 $baseline: 1.5;
+
+$fontSmall: $fontSize*0.889; // eq 16px;
+$fontMedium: $fontSize*1.333; // eq 24px;
+$fontLarge: $fontSize*1.778; // eq 32px;
 
 
 // ColorScheme
