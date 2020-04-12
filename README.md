@@ -1,7 +1,5 @@
 # olivierfredon.com
 
-Personal website with [Hugo](http://gohugo.io) v0.17.
-
 ## License
 
 * Structure under MIT License
