@@ -10,8 +10,6 @@ categories: ["Web"]
 
 img: "img/blog/weekly-linkdiggaz/ep-04.gif"
 imgalt: "Weekly linkdiggaz Ep.04"
-
-draft: true
 ---
 
 # Weekly linkdiggaz Ep.04
