@@ -3,3 +3,26 @@ https://olivierfredon.netlify.com/* https://www.olivierfredon.com/:splat 301!
 
 # Redirect old content
 /je-nai-rien-contre-medium /blog/je-nai-rien-contre-medium/ 301!
+
+# Redirect img after page bundles migration
+/img/blog/je-nai-rien-contre-medium/medium.gif /blog/je-nai-rien-contre-medium/medium.gif 301!
+
+/img/blog/moniteur-gv/calames-details.jpg /blog/formation-moniteur-grandes-voies/calames-details.jpg 301!
+/img/blog/moniteur-gv/grotte-sabart.jpg /blog/formation-moniteur-grandes-voies/grotte-sabart.jpg 301!
+/img/blog/moniteur-gv/orlu-approche.jpg /blog/formation-moniteur-grandes-voies/orlu-approche.jpg 301!
+/img/blog/moniteur-gv/orlu-grimpe.jpg /blog/formation-moniteur-grandes-voies/orlu-grimpe.jpg 301!
+/img/blog/moniteur-gv/sinsat.jpg /blog/formation-moniteur-grandes-voies/sinsat.jpg 301!
+/img/blog/moniteur-gv/sommet-orlu.jpg /blog/formation-moniteur-grandes-voies/sommet-orlu.jpg 301!
+
+/img/blog/anais/anais.jpg /blog/integrale-anais/anais.jpg 301!
+/img/blog/anais/approche.jpg /blog/integrale-anais/approche.jpg 301!
+/img/blog/anais/depart.jpg /blog/integrale-anais/depart.jpg 301!
+/img/blog/anais/descente.jpg /blog/integrale-anais/descente.jpg 301!
+/img/blog/anais/la-pelle.jpg /blog/integrale-anais/la-pelle.jpg 301!
+/img/blog/anais/sommet.jpg /blog/integrale-anais/sommet.jpg 301!
+/img/blog/anais/vallee.jpg /blog/integrale-anais/vallee.jpg 301!
+
+/img/blog/weekly-linkdiggaz/ep-01.gif /blog/weekly-linkdiggaz-ep01/ep-01.gif 301!
+/img/blog/weekly-linkdiggaz/ep-02.gif /blog/weekly-linkdiggaz-ep01/ep-02.gif 301!
+/img/blog/weekly-linkdiggaz/ep-03.gif /blog/weekly-linkdiggaz-ep01/ep-03.gif 301!
+/img/blog/weekly-linkdiggaz/ep-04.gif /blog/weekly-linkdiggaz-ep01/ep-04.gif 301!
