@@ -1,6 +1,6 @@
 ---
 title: "Weekly Linkdiggaz Ep.05"
-description: "Web et éco-conception : CSS, images, vidéos, contenus et CSS. La sobriété s'impose."
+description: "Web et éco-conception : CSS, images, vidéos et contenus. La sobriété s'impose."
 
 date: 2020-04-19T11:08:54+01:00
 publishdate: 2020-04-18T11:08:54+01:00
