@@ -5,7 +5,7 @@ https://olivierfredon.netlify.com/* https://www.olivierfredon.com/:splat 301!
 /je-nai-rien-contre-medium /blog/je-nai-rien-contre-medium/ 301!
 
 # Redirect img after page bundles migration
-/img/blog/je-nai-rien-contre-medium/medium.gif /blog/je-nai-rien-contre-medium/medium.gif 301!
+/img/blog/medium.gif /blog/je-nai-rien-contre-medium/medium.gif 301!
 
 /img/blog/moniteur-gv/calames-details.jpg /blog/formation-moniteur-grandes-voies/calames-details.jpg 301!
 /img/blog/moniteur-gv/grotte-sabart.jpg /blog/formation-moniteur-grandes-voies/grotte-sabart.jpg 301!
