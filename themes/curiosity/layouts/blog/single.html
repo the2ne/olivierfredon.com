@@ -9,7 +9,7 @@
     <article class="content">
         {{ if .Params.Img }}
         <figure class="big-picture">
-            <img src="{{ .Site.BaseURL }}{{ .Params.Img }}" alt="{{ .Params.ImgAlt }}" />
+            <img src="{{ .Permalink }}{{ .Params.Img }}" alt="{{ .Params.ImgAlt }}" />
             <figcaption>{{ .Params.ImgAlt }}</figcaption>
         </figure>
         {{ end }}
