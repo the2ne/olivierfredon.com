@@ -8,7 +8,7 @@ lastmod: 2020-03-29T11:09:49+01:00
 tags: ["www", "links"]
 categories: ["Web"]
 
-img: "img/blog/weekly-linkdiggaz/ep-02.gif"
+img: "ep-02.gif"
 imgalt: "Weekly linkdiggaz Ep.02"
 ---
 

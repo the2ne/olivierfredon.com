@@ -8,7 +8,7 @@ lastmod: 2020-03-05T11:11:28+01:00
 tags: ["escalade", "grande voie"]
 categories: ["escalade"]
 
-img: "img/blog/anais/anais.jpg"
+img: "anais.jpg"
 imgalt: "Tracé de l'intégrale d'Anaïs"
 ---
 
@@ -48,14 +48,14 @@ Passons les détails de notre folle et courte nuit dans le mobile home.
 De l’orage est annoncé en milieu d’après midi et le topo indique 35 minutes de marche d’approche + 7 heures de grimpe + 2 heures 30 de descente.  
 On est super motivés pour être au pied de la voie avant 7h et à Ax-Les-Thermes pour s’hydrater (très important) vers 16h, en plus il y avait les 10 ans de l’[Explo film festival](http://explos-festival.com/) ce week-end.
 
-![Réveil matinal pour une marche d'approche avec vue](/img/blog/anais/approche.jpg)
+![Réveil matinal pour une marche d'approche avec vue](/blog/integrale-anais/approche.jpg)
 
 ### 6h pétante, on attaque la marche d’approche
 
 Marche d’approche qui vous réchauffe très rapidement malgré l’humidité matinale et vous fait regretter de ne pas grimper à Gavaudun.  
 Après bien 35 minutes dont une bonne dizaine dans un pierrier, on arrive devant le «{{<nbsp>}}Plaisir du geste{{<nbsp>}}», le timing est parfait.
 
-![Départ au pied du secteur Pubis pour la première longeur](/img/blog/anais/depart.jpg)
+![Départ au pied du secteur Pubis pour la première longeur](/blog/integrale-anais/depart.jpg)
 
 Jérôme, en fin stratège, a prévu de s’élancer le premier afin de me laisser le plaisir d’ouvrir «{{<nbsp>}}Jeanne{{<nbsp>}}» 3 relais plus tard. Il part donc à froid dans un 6a en dalle sur trous qui finira de le réveiller.  
 Je prends le relais et continue ma route dans un 5c+ en dalle avec une petite ligne de faille le tout en traversée. Celles et ceux qui ont déjà passé une journée en falaise avec moi savent à quel point j’apprécie ce genre d’itinéraire.  
@@ -64,7 +64,7 @@ Le 5c qui suit est une jolie formalité qui nous amène directement au deuxième
 A peine le temps d’un pipi (la trouille), de grignoter un bout et d'admirer la vue, il est déjà 9h{{<nbsp>}}!  
 Si on met 1h par longueur, on est pas rentré.
 
-![Vue imprenable sur la vallée](/img/blog/anais/vallee.jpg)
+![Vue imprenable sur la vallée](/blog/integrale-anais/vallee.jpg)
 
 C’est mon tour et pourtant je m’en passerais bien. La fameuse première longueur de Jeanne, le 6a+ dans lequel j’ai vu El Condor voler (oui, ce n’est pas que pour l’envergure) très longuement et plusieurs fois d’affilé l’année précédente.  
 Je prends mon temps, petit pas par petit pas. J’avance. J’ai du mal à le croire moi même mais je suis en train de l’enchainer. C’était un peu long, avec un clippage vraiment aléatoire mais c’est sorti. Wooohooooo{{<nbsp>}}! Cette première victoire me remet méchamment en confiance au point que je ne réalise pas encore que j’y ai laissé énormément de jus.  
@@ -85,7 +85,7 @@ En fait il y a juste un pas en 5c, un joli reta tranquille et la suite c’est d
 
 On profite du peu d’ombre que fournissent les quelques chênes verts présents pour se restaurer vite fait et surtout se rafraîchir.
 
-![La pelle, troisième et ultime ressaut](/img/blog/anais/la-pelle.jpg)
+![La pelle, troisième et ultime ressaut](/blog/integrale-anais/la-pelle.jpg)
 
 ### C’est là que tout commence. 
 
@@ -149,14 +149,14 @@ Quoi{{<nbsp>}}?! Un paratonnerre avec l’orage qui s’amène{{<nbsp>}}! Là J�
 On a plus une goutte d’eau et il nous reste deux heures et demi de descente. D’abord dans des buis puis rapidement dans des pierriers où il nous faudra retrouver le relais sur un arbre au niveau du Pubis pour les trois derniers rappels.  
 Assoiffés, on aurait bien aimé prendre l’orage finalement, mais non. Il a décidé de nous contourner.
 
-![Sommet, paratonnerre et gros temps](/img/blog/anais/sommet.jpg)
+![Sommet, paratonnerre et gros temps](/blog/integrale-anais/sommet.jpg)
 
 ### 2h30 de descente
 
 C'est ce qu'annonce le topo. Saut que pour nous, c’est le temps qu’on mettra uniquement pour trouver ce maudit rappel{{<nbsp>}}!
 Complètement déshydratés, on ne devait plus vraiment être très lucides. Jérôme a même envisagé sérieusement de prendre le premier arbre venu.
 
-![Chercher un relais sur un arbre au milieu de nulpart](/img/blog/anais/descente.jpg)
+![Chercher un relais sur un arbre au milieu de nulpart](/blog/integrale-anais/descente.jpg)
 
 20h15 on installe le premier rappel et on retrouve le sourire en se disant qu’on est bientôt en bas.  
 Sauf que c’était sans compter sur la Loi de Murphy{{<nbsp>}}:
