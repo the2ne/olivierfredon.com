@@ -453,7 +453,7 @@ img[alt] {
   font-style: italic; }
 
 article li + li {
-  margin-top: .5em; }
+  margin-top: .2777em; }
 
 .big-picture {
   margin: -1em -2em 1em;
