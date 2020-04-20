@@ -37,7 +37,7 @@ Le bitume est encore un peu humide, alors le temps que ça sèche{{<nbsp>}}: pr�
 C'est pas tout ça mais on commence à se geler alors on remballe et direction le caillou.  
 Au bas des voies, premier atelier avec vérification des connaissances sur les relais et les différentes façon de les équiper. On en profite pour réviser les nœuds{{<nbsp>}}: lesquels et dans quels cas{{<nbsp>}}? Ensuite, on forme les cordées et on fait notre choix dans le topo.
 
-![Relais sur Friends et coinceurs à Calamès](/blog/formation-moniteur-grandes-voies/calames-details.jpg)
+{{< img src="calames-details.jpg" alt="Relais sur Friends et coinceurs à Calamès" >}}
 
 ### Objectif{{<nbsp>}}: grimper 4 ou 5 longueurs tranquilles afin que nos deux {{< abbr title="Gentil Organisateur" text="G.O." >}} puissent checker que nous étions de bons élèves et que ce que nous avions annoncé correspond à notre pratique.  
 
@@ -61,7 +61,7 @@ On aurait du se méfier, c'est lui qui la veille nous avez dit{{<nbsp>}}:
 Oui tu m'étonnes.  
 De la flotte qui résurge un peu partout, parfait pour une journée de grimpe. Et puis toute cette neige, c'est vachement bien fait dit-donc{{<nbsp>}}?!
 
-![Vue sur la dent d'Orlu sous la neige depuis la marche d'approche](/blog/formation-moniteur-grandes-voies/orlu-approche.jpg)
+{{< img src="orlu-approche.jpg" alt="Vue sur la dent d'Orlu sous la neige depuis la marche d'approche" >}}
 
 On s'est donc adapté. Une belle trace ouverte par notre guide et une main courante pour atteindre les 3 premières et seules voies accessibles, ensuite banzaï{{<nbsp>}}! Fini la rando alpine, on peut enfin mettre les chaussons.
 
@@ -71,7 +71,7 @@ Au sommet, on retrouvera à nouveau la neige et donc une descente bien rock'n ro
 
 Il y a du vrai c'est certain, cependant c'était une expérience fantastique et inoubliable. Dure mais extrèmement enrichissante pour un grimpeur comme moi qui ne fait quasiment que de la couenne sportive.
 
-![Grimpe au mois de mai à Orlu dans une ambiance féérique](/blog/formation-moniteur-grandes-voies/orlu-grimpe.jpg)
+{{< img src="orlu-grimpe.jpg" alt="Grimpe au mois de mai à Orlu dans une ambiance féérique" >}}
 
 ## Samedi, jour 3{{<nbsp>}}: Souvenirs et découvertes
 
@@ -79,7 +79,7 @@ On sait que la météo devrait virer à l'orage dans l'après-midi, du coup on t
 Je m'étais promis de ne jamais revenir là après avoir bien galéré l'année dernière avec Jérôme pour sortir «{{<nbsp>}}[l'intégrale d'Anaïs](/blog/integrale-anais/){{<nbsp>}}» et pourtant…  
 Encore une marche d'approche qui me fracasse. Faut vraiment que je me mette à courir ou à pédaler.  
 
-![Le Quiè de Sinsat toujours aussi accueillant](/blog/formation-moniteur-grandes-voies/sinsat.jpg)
+{{< img src="sinsat.jpg" alt="Le Quiè de Sinsat toujours aussi accueillant" >}}
 
 ### Aujourd'hui on est censé grimper quelques longueurs, mettre en pratique des manips d'aide au second et finir en moulinant le second sur les deux longueurs de cordes raboutées et en tension.
 
@@ -97,7 +97,7 @@ On savait déjà qu'on ne pourrait pas grimper au sec en grande voie aujourd'hui
 
 On vide le gîte et file vers la [grotte de Sabart](http://cafma.free.fr/sabart/fr_sabart.htm).  
 
-![La grotte de Sabart](/blog/formation-moniteur-grandes-voies/grotte-sabart.jpg)
+{{< img src="grotte-sabart.jpg" alt="La grotte de Sabart" >}}
 
 Enfin une vraie marche d'approche{{<nbsp>}}: 10 minutes sur du plat{{<nbsp>}}!!!  
 Pour celles et ceux qui ne connaissent pas, une voie de chauffe en 6c+ (humide) et tout le reste au dessus, jusqu'au 9a. Et bien sûr ça résurge de partout.
