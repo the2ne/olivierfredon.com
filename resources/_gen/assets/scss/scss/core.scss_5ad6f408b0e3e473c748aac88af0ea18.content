@@ -452,6 +452,9 @@ img[alt] {
   color: #ddc79d;
   font-style: italic; }
 
+article li + li {
+  margin-top: .5em; }
+
 .big-picture {
   margin: -1em -2em 1em;
   position: relative; }

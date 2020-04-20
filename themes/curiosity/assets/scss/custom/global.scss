@@ -88,6 +88,10 @@ img[alt] {
     font-style: italic;
 }
 
+article li + li {
+    margin-top: .5em;
+}
+
 // Big picture
 
 .big-picture {
