@@ -9,8 +9,11 @@ tags: ["www", "links"]
 categories: ["Web"]
 
 img: "ep-02.gif"
-imgalt: "Weekly linkdiggaz Ep.02"
 ---
+
+{{< figure class="big-picture" figcaption="Weekly linkdiggaz Ep.02" >}}
+  {{< img src="ep-02.gif" alt="Weekly linkdiggaz Ep.02" >}}
+{{< /figure >}}
 
 # Weekly linkdiggaz Ep.02
 

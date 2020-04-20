@@ -9,8 +9,11 @@ tags: ["escalade", "grande voie"]
 categories: ["escalade"]
 
 img: "anais.jpg"
-imgalt: "Tracé de l'intégrale d'Anaïs"
 ---
+
+{{< figure class="big-picture" figcaption="Tracé de l'intégrale d'Anaïs" >}}
+  {{< img src="anais.jpg" alt="Tracé de l'intégrale d'Anaïs" >}}
+{{< /figure >}}
 
 # L'intégrale d'Anaïs
 

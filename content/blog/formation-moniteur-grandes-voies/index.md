@@ -9,8 +9,11 @@ tags: ["escalade", "grande voie"]
 categories: ["escalade"]
 
 img: "sommet-orlu.jpg"
-imgalt: "Vue depuis le sommet de la dent d'Orlu"
 ---
+
+{{< figure class="big-picture" figcaption="Vue depuis le sommet de la dent d'Orlu" >}}
+  {{< img src="sommet-orlu.jpg" alt="Vue depuis le sommet de la dent d'Orlu" >}}
+{{< /figure >}}
 
 # Brevet fédéral moniteur escalade qualification grandes voies
 
