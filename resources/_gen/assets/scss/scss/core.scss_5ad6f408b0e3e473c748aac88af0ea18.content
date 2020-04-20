@@ -467,6 +467,8 @@ article li + li {
     margin: 0 auto 1em;
     text-align: center;
     visibility: hidden; }
+    .big-picture figcaption p {
+      margin: 0; }
 
 @media screen and (min-width: 40em) {
   .big-picture {

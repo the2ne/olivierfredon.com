@@ -9,8 +9,11 @@ tags: ["www", "startup nation"]
 categories: ["Web"]
 
 img: "medium.gif"
-imgalt: "Je n'ai rien contre Medium"
 ---
+
+{{< figure class="big-picture" figcaption="Je n'ai rien contre Medium" >}}
+  {{< img src="medium.gif" alt="Je n'ai rien contre Medium" >}}
+{{< /figure >}}
 
 # Je n'ai rien contre Medium
 
