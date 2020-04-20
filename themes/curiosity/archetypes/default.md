@@ -9,14 +9,20 @@ lastmod:
 tags: ["x", "y"]
 categories: ["x", "y"]
 
-img: 
-imgalt: 
+img: ""
 
 draft: true
 ---
+
+{{< figure class="big-picture" figcaption="" >}}
+  {{< img src="" alt="" >}}
+{{< /figure >}}
 
 # h1
 
 {{<nbsp>}}
 «{{<nbsp>}}»
 …
+
+{{< img src="" alt="" >}}
+{{< abbr title="" text="" >}}
