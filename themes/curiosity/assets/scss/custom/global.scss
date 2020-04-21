@@ -46,6 +46,11 @@ a:hover { color: $contrast; }
 a:focus { color: $base; }
 a:active { color: $black; }
 
+a[hreflang]::after {
+    content: "\0000a0[" attr(hreflang) "]";
+    background: transparent;
+}
+
 // HTML elements
 
 blockquote {

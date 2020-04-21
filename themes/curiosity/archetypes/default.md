@@ -20,9 +20,7 @@ draft: true
 
 # h1
 
-{{<nbsp>}}
-«{{<nbsp>}}»
-…
+«…»
 
 {{< img src="" alt="" >}}
 {{< abbr title="" text="" >}}
