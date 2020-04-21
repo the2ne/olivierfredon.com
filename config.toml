@@ -24,3 +24,8 @@ enableInlineShortcodes = true
     name = "Contact"
     url = "mailto:contact@olivierfredon.com"
     weight = 2
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
