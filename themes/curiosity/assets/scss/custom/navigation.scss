@@ -16,13 +16,27 @@
         display: inline-block;
     
         a {
-            color: $light;
-            @include _background-opacity($black, .2);
-            border: 1px solid $light;
+            border-width: 1px;
+            border-style: solid;
             border-radius: 3px;
             padding: .25em .5em;
             text-decoration: none;
-            transition: all 1s ease
+
+            transition-property: background-color, border-color, color;
+            transition-duration: 2s, 1s, 1s;
+            transition-timing-function: ease;
+        }
+    
+        a:link {
+            color: $light;
+            border-color: $light;
+            @include _background-opacity($black, .2);
+        }
+    
+        a:visited {
+            color: $light;
+            border-color: $light;
+            @include _background-opacity($black, .4);
         }
     
         a:hover {
@@ -31,14 +45,14 @@
             @include _background-opacity($black, .7);
         }
     
-        a:focus {
-            color: $white;
-            border-color: $white;
-        }
-    
         a:active {
             color: $neutral;
             border-color: $neutral;
+        }
+    
+        a:focus {
+            color: $white;
+            border-color: $white;
         }
     }
 
@@ -72,11 +86,21 @@
         }
         
         .svg {
-            fill: $white;
             fill-rule: evenodd;
             width: 1.5em;
             height: 100%;
             transition: fill 1s ease
+        }
+        
+
+        a .svg {
+            transition-property: fill;
+            transition-duration: 2s;
+            transition-timing-function: ease;
+        }
+
+        a:link .svg {
+            fill: $light;
         }
         
         a:visited .svg {
@@ -85,6 +109,10 @@
         
         a:hover .svg {
             fill: $contrast
+        }
+        
+        a:active .svg {
+            fill: $black
         }
     }
 

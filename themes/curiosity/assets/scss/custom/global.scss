@@ -37,14 +37,12 @@ body {
 
 // Links
 
-a {
-    color: $light;
-    cursor: pointer;
-    transition: color 1s ease;
-}
+a {  cursor: pointer; }
+a:link { color: $light; }
+a:visited { color: $white; }
 a:hover { color: $contrast; }
-a:focus { color: $base; }
 a:active { color: $black; }
+a:focus { color: $base; }
 
 a[hreflang]::after {
     content: "\0000a0[" attr(hreflang) "]";
