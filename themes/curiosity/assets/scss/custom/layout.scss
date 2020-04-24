@@ -4,14 +4,15 @@
 ////
 
 .wrapper {
-    background: url(/images/bg-small.jpg) no-repeat center center fixed $base;
-    background-size: cover;
+    background: url(/images/bg-small.jpg) no-repeat top center fixed $base;
     color: $white;
 }
 
 @media screen and (min-width: 21em) {
     .wrapper {
         background-image: url(/images/bg-medium.jpg);
+        background-size: cover;
+        background-position: center center;
     }
 }
 
