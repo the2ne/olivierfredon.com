@@ -1,6 +1,6 @@
 ---
 title: "Weekly Linkdiggaz Ep.06"
-description: "CSS, SVG, workflow, design et GAFAM. Cette semaine une sélection d'article pour parfaire son anglais tout en apprenant des choses sur son propre métier"
+description: "CSS, SVG, workflow, design et GAFAM. Cette semaine une sélection d'articles pour parfaire son anglais tout en apprenant des choses sur son propre métier"
 
 date: 2020-04-26T11:10:54+01:00
 publishdate: 2020-04-26T11:10:54+01:00
