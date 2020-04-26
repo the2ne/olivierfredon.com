@@ -89,13 +89,12 @@
             fill-rule: evenodd;
             width: 1.5em;
             height: 100%;
-            transition: fill 1s ease
         }
         
 
         a .svg {
             transition-property: fill;
-            transition-duration: 2s;
+            transition-duration: 1s;
             transition-timing-function: ease;
         }
 
@@ -112,11 +111,14 @@
         }
         
         a:active .svg {
-            fill: $black
+            fill: $white
         }
     }
 
     .legals {
         font-size: $fontSmall;
+        
+        a:link { color: $light; }
+        a:hover { color: $contrast; }
     }
 }
