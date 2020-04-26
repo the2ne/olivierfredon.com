@@ -8,11 +8,9 @@ lastmod: 2020-04-26T11:10:54+01:00
 
 tags: ["www", "links"]
 categories: ["Web"]
-
-draft: true
 ---
 
-# Weekly linkdiggaz Ep.05
+# Weekly linkdiggaz Ep.06
 
 ## Vous parlez français&nbsp;?
 
