@@ -90,3 +90,26 @@
     margin-top: 2em;
     padding-top: 2em;
 }
+
+// Small and magic grid for 1/3 2/3 layout
+
+.grid {
+    >* {
+        margin-top: 1em
+    }
+}
+
+@media screen and (min-width: 40em) {
+
+    .grid {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+    
+        &--1-2 { grid-template-columns: 33% 1fr; }
+        &--2-1 { grid-template-columns: 1fr 33%; }
+        &--gutter { grid-gap: 1em; }
+        >* {
+            margin-top: 0;
+        }
+    }
+}
