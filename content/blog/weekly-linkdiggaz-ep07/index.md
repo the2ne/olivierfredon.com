@@ -16,7 +16,7 @@ categories: ["Web"]
 La perspective de pouvoir peut-être sortir à nouveau, dans un rayon de 100 km, et retrouver les grands espaces nous tient en suspend jusqu'à chaque nouvelle annonce qui pourrait venir contredire la précédente.
 
 Toujours est-il, cet espoir de liberté signifie pour chacun une nouvelle étape, un changement.
-A titre personnel, outre la fin de cette rubrique hebdomadaire, cela signifie potentiellement un retour en falaise et à l'escalade.
+À titre personnel, outre la fin de cette rubrique hebdomadaire, cela signifie potentiellement un retour en falaise et à l'escalade.
 
 La grimpe n'est pas une fin, juste un moyen. Ce n'est rien d'autre qu'une priorité individuelle, pour ne pas dire individualiste, et ne saurait être un objectif pour l'après. D'autant plus qu'il y a encore beaucoup trop de questions quant à sa pratique dans des conditions raisonnables. Pour la ré-ouverture des salles c'est une évidence&nbsp;: impossible pour l'instant. Pour ce qui est du plein air, comment faire&nbsp;? Passons rapidement sur la communication du [ministère des Sports](https://twitter.com/Sports_gouv/status/1255832264694521858) qui visiblement ne connait pas bien la pratique&nbsp;:
 
@@ -37,7 +37,7 @@ Bref, vous l'aurez compris cette semaine vous allez manger du caillou et de l'es
 ### Essayons de ne pas y penser pour l'instant (déni)
 
 - 🧗‍♀️ [Devil's tower](https://youtu.be/4pbOAxxoC9c)&nbsp;: on se plonge dans le passé et on suit Catherine Destivelle aux États-Unis en 1992 pour de l'escalade en solo comme recommandé par le ministère des Sports
-- 🗺️ [Amazonian Vertigo](https://vimeo.com/308215394)&nbsp;: cette fois on part au Vénézuela pour l'ascension du Salto Angel avec, entre autres, Stéphanie Bodet et Arnaud Petit pour compagnon de cordée
+- 🗺️ [Amazonian Vertigo](https://vimeo.com/308215394)&nbsp;: cette fois on part au Vénézuela pour l'ascension du Salto Angel avec, entre autres, Stéphanie Bodet et Arnaud Petit pour compagnons de cordée
 - ⛰️ [Montagnes en transition. Quel avenir pour les territoires de montagne&nbsp;?](https://vimeo.com/383518471)&nbsp;: parce qu'en montagne comme dans la vie, il n'y a pas que l'escalade
 - 🏝️ [Bartas&nbsp;: Highline à la Réunion](https://vimeo.com/164248959)&nbsp;: pas vraiment de l'escalade mais ça fait du bien tout de même. Quand les six meilleurs highliners français partent à La Réunion avec le projet de battre le record du monde de highline
 
