@@ -39,10 +39,10 @@ body {
 
 a {  cursor: pointer; }
 a:link { color: $contrast; }
-a:visited { color: $neutral; }
-a:hover { color: $light; }
-a:active { color: $white; }
-a:focus { color: $base; }
+a:visited { color: $light; }
+a:hover { color: $neutral; }
+a:active { color: $neutral; }
+a:focus { color: $white; }
 
 a[hreflang]::after {
     content: "\0000a0[" attr(hreflang) "]";

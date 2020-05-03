@@ -24,7 +24,7 @@ La grimpe n'est pas une fin, juste un moyen. Ce n'est rien d'autre qu'une priori
 
 Ce qui revient à encourager le free solo.
 
-Bref, vous l'aurez compris cette semaine vous allez manger du caillou et de l'escalade car moi je ne suis pas prêt d'y retourner.
+Bref, vous l'aurez compris cette semaine vous allez manger du caillou et de l'escalade car moi je ne suis pas près d'y retourner.
 
 ## Escalade mon amour
 
