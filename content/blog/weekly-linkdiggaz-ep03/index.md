@@ -3,7 +3,6 @@ title: "Weekly Linkdiggaz Ep.03"
 description: ""
 date: 2020-04-05T11:09:56+01:00
 publishdate: 2020-04-04T11:21:00+01:00
-lastmod: 2020-04-05T11:09:56+01:00
 
 tags: ["www", "links"]
 categories: ["Web"]

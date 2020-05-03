@@ -4,7 +4,6 @@ description: ""
 
 date: 2020-04-12T11:12:05+01:00
 publishdate: 
-lastmod: 
 
 tags: ["x", "y"]
 categories: ["x", "y"]

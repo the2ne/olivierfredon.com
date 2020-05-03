@@ -3,7 +3,6 @@ title: "Weekly Linkdiggaz Ep.04"
 description: "Votre ration de liens pour cette semaine. Il y en a pour tout le monde : travailleurs du Web, lecteurs, collectionneurs d'images, geeks, mélomanes ou sportifs"
 date: 2020-04-12T11:12:05+01:00
 publishdate: 2020-04-12T11:12:05+01:00
-lastmod: 2020-04-12T11:12:05+01:00
 
 tags: ["www", "links"]
 categories: ["Web"]

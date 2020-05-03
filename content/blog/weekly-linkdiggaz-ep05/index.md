@@ -4,7 +4,6 @@ description: "Web et éco-conception : CSS, images, vidéos et contenus. La sobr
 
 date: 2020-04-19T11:08:54+01:00
 publishdate: 2020-04-18T11:08:54+01:00
-lastmod: 2020-04-19T11:08:54+01:00
 
 tags: ["www", "links"]
 categories: ["Web"]

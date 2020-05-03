@@ -3,7 +3,6 @@ title: "Je n'ai rien contre Medium"
 description: "De l'importance de ne pas confier ses contenus à une plateforme décentralisée. Encore plus si elle est cool et en californie."
 date: 2020-02-25T11:07:42+01:00
 publishdate: 2017-01-05T11:09:28+01:00
-lastmod: 2020-02-25T11:07:42+01:00
 
 tags: ["www", "startup nation"]
 categories: ["Web"]

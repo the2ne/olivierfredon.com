@@ -3,7 +3,6 @@ title: "Weekly Linkdiggaz Ep.02"
 description: "Vous prendrez bien une seconde salve de liens pour vous occuper, vous cultiver, vous en mettre plein les mirettes ou plein les esgourdes, voire les deux."
 date: 2020-03-28T11:21:21+01:00
 publishdate: 2020-03-28T11:09:49+01:00
-lastmod: 2020-03-29T11:09:49+01:00
 
 tags: ["www", "links"]
 categories: ["Web"]

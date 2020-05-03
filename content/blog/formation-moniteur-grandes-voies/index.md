@@ -3,7 +3,6 @@ title: "Moniteur escalade qualification grandes voies"
 description: "Compte rendu de 4 jours de formation au brevet fédéral de moniteur escalade qualification grandes voies à la FFCAM"
 date: 2020-03-27T11:23:47+01:00
 publishdate: 2020-03-26T11:23:47+01:00
-lastmod: 2020-03-27T11:23:47+01:00
 
 tags: ["escalade", "grande voie"]
 categories: ["escalade"]

@@ -4,7 +4,6 @@ description: "CSS, SVG, workflow, design et GAFAM. Cette semaine une sélection 
 
 date: 2020-04-26T11:10:54+01:00
 publishdate: 2020-04-26T11:10:54+01:00
-lastmod: 2020-04-26T11:10:54+01:00
 
 tags: ["www", "links"]
 categories: ["Web"]

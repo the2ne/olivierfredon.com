@@ -3,7 +3,6 @@ title: "Weekly Linkdiggaz Ep.01"
 description: "Une décharge de liens hebdomadaire, voilà ce qui vous attend. Que ce soit pour passer le temps, se cultiver, nourrir ses envies, s'aérer l'esprit, prendre de la hauteur ou tomber en dépression, c'est selon l'arrivage et selon l'humeur."
 date: 2020-03-21T11:09:20+01:00
 publishdate: 2020-03-21T11:09:20+01:00
-lastmod: 2020-03-21T11:09:20+01:00
 
 tags: ["www", "links"]
 categories: ["Web"]

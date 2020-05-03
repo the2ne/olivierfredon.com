@@ -3,7 +3,6 @@ title: "Conception Web, UX, biais cognitif, effet d'ancrage et un peu d'escalade
 description: "Derrière un titre prédisposé à remplir une grille de bingo, il ne sera nullement question de paraphraser toute la littérature existante sur les biais cognitifs. Pour appréhender les biais, laissez-moi vous conter une petite histoire. Une histoire d'escalade forcément."
 date: 2020-04-06T11:14:51+01:00
 publishdate: 2020-04-06T11:14:51+01:00
-lastmod: 2020-04-06T11:14:51+01:00
 
 tags: ["biais cognitif", "ancrage", "UX"]
 categories: ["escalade", "web"]
