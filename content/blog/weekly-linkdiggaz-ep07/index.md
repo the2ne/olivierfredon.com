@@ -2,23 +2,18 @@
 title: "Weekly Linkdiggaz Ep.07"
 description: "Dernière ligne droite et après ? Perspective d'un avenir partagé entre escalade et conception Web. Tout comme avant, sauf que ce sera après."
 
-date: 2020-05-02T11:11:05+01:00
-publishdate: 2020-05-02T11:11:05+01:00
-lastmod: 2020-05-02T11:11:05+01:00
+date: 2020-05-03T11:08:53+01:00
+publishdate: 2020-05-02T11:18:41+01:00
 
 tags: ["www", "links"]
 categories: ["Web"]
-
-img: ""
-
-draft: true
 ---
 
 # Weekly Linkdiggaz Ep.07
 
 ## Dernière ligne droite et après&nbsp;?
 
-La perspective de pouvoir peut-être sortir à nouveau, dans un rayon de 100 km et retrouver les grands espaces nous tient en suspend jusqu'à chaque nouvelle annonce qui pourrait venir contredire la précédente.
+La perspective de pouvoir peut-être sortir à nouveau, dans un rayon de 100 km, et retrouver les grands espaces nous tient en suspend jusqu'à chaque nouvelle annonce qui pourrait venir contredire la précédente.
 
 Toujours est-il, cet espoir de liberté signifie pour chacun une nouvelle étape, un changement.
 A titre personnel, outre la fin de cette rubrique hebdomadaire, cela signifie potentiellement un retour en falaise et à l'escalade.
@@ -27,7 +22,7 @@ La grimpe n'est pas une fin, juste un moyen. Ce n'est rien d'autre qu'une priori
 
 > Oui, la pratique de l'escalade répond aux critères posés pour le déconfinement. Elle devra en revanche se faire dans le respect strict de la distanciation
 
-Ce qui revient à encourager le free solo. Youpi&nbsp;!
+Ce qui revient à encourager le free solo.
 
 Bref, vous l'aurez compris cette semaine vous allez manger du caillou et de l'escalade car moi je ne suis pas prêt d'y retourner.
 
@@ -42,8 +37,8 @@ Bref, vous l'aurez compris cette semaine vous allez manger du caillou et de l'es
 ### Essayons de ne pas y penser pour l'instant (déni)
 
 - 🧗‍♀️ [Devil's tower](https://youtu.be/4pbOAxxoC9c)&nbsp;: on se plonge dans le passé et on suit Catherine Destivelle aux États-Unis en 1992 pour de l'escalade en solo comme recommandé par le ministère des Sports
-- 🗺️ [Amazonian Vertigo](https://vimeo.com/308215394)&nbsp;: cette fois on part au Vénézuela pour l'ascension du Salto Angel avec entre autre Stéphanie Bodet et Arnaud Petit
-- ⛰️ [Montagnes en transition. Quel avenir pour les territoires de montagne&nbsp;?](https://vimeo.com/383518471)&nbsp;: parce qu'il n'y a pas que l'escalade en montagne
+- 🗺️ [Amazonian Vertigo](https://vimeo.com/308215394)&nbsp;: cette fois on part au Vénézuela pour l'ascension du Salto Angel avec, entre autres, Stéphanie Bodet et Arnaud Petit pour compagnon de cordée
+- ⛰️ [Montagnes en transition. Quel avenir pour les territoires de montagne&nbsp;?](https://vimeo.com/383518471)&nbsp;: parce qu'en montagne comme dans la vie, il n'y a pas que l'escalade
 - 🏝️ [Bartas&nbsp;: Highline à la Réunion](https://vimeo.com/164248959)&nbsp;: pas vraiment de l'escalade mais ça fait du bien tout de même. Quand les six meilleurs highliners français partent à La Réunion avec le projet de battre le record du monde de highline
 
 ## En attendant on peut toujours apprendre
@@ -53,10 +48,10 @@ Bref, vous l'aurez compris cette semaine vous allez manger du caillou et de l'es
 - 🗃️ <a href="https://www.stefanjudis.com/today-i-learned/css-content-accepts-alternative-text/" hreflang="en">The {{< abbr title="Cascading Style Sheets" text="CSS" >}} "content" property accepts alternative text</a>&nbsp;: se plonger dans les standards du {{< abbr title="World Wide Web Consortium" text="W3C" >}}, c'est aussi faire de belles découvertes
 - 📝 [Pourquoi et comment mettre en place des entretiens utilisateurs efficaces&nbsp;?](https://www.uptilab.com/fr/pourquoi-et-comment-mettre-en-place-des-entretiens-utilisateurs-efficaces/)&nbsp;: un article qui est un excellent point de départ si vous ne vous êtes jamais posé ces questions
 - 📧 <a href="https://www.goodemailcode.com/" hreflang="en">Good e-mail code</a>&nbsp;: oui oui c'est possible de conjuguer création d'e-mail et bonnes pratiques, voire qualité
-- 👌 [Qu’est-ce que la qualité intrinsèque&nbsp;? (built-in quality)](https://jp-lambert.me/quest-ce-que-la-qualite-intrinseque-built-in-quality-8b56ca0292c7)&nbsp;: d'ailleurs cette notion de qualité revient souvent en conception. Placée dans une équipe Agile utilisant Scrum elle prend une tout autre dimension
+- 👌 [Qu’est-ce que la qualité intrinsèque&nbsp;? (built-in quality)](https://jp-lambert.me/quest-ce-que-la-qualite-intrinseque-built-in-quality-8b56ca0292c7)&nbsp;: d'ailleurs cette notion de qualité revient souvent en conception. Placée dans une équipe Agile utilisant Scrum elle prend une toute autre dimension
 - 👩‍💻 [Interview des gens du web : Julie Moynat](https://www.alsacreations.com/actu/lire/1808-Interview-des-gens-du-web--Julie-Moynat.html)&nbsp;: les gens qui font du Web un endroit meilleur c'est toujours un bonheur à lire ou à écouter et on apprend toujours quelque chose
 
 ### Voir plus loin
 
-- 🔭 <a href="https://www.nasa.gov/content/goddard/what-did-hubble-see-on-your-birthday" hreflang="en">What Did Hubble See on Your Birthday?</a>&nbsp;: pour le coup on va bien plus loin que les 100 km et on en prend plein les mirettes. Perso j'ai droit des [aurores au pole nord de Jupiter](https://imagine.gsfc.nasa.gov/hst_bday/images/june-2-2019-jupiter-s-auroras.jpg), ça claque&nbsp;!
-- 📻 [Le code a changé&nbsp;: Ce que les pouvoirs gagnent à tout savoir de nos vies](https://www.franceinter.fr/emissions/le-code-a-change/ce-que-les-pouvoirs-gagnent-a-tout-savoir-de-nos-vies)&nbsp;: excellent podcast avec Bernard Harcourt en invité. Numérique, surveillance, attention, exposition, police et justice prédictives…
+- 🔭 <a href="https://www.nasa.gov/content/goddard/what-did-hubble-see-on-your-birthday" hreflang="en">What Did Hubble See on Your Birthday?</a>&nbsp;: pour le coup on va bien plus loin que les 100 km prochainement autorisés. On prend de la hauteur pour on en prend plein les mirettes. Perso j'ai droit des [aurores au pole nord de Jupiter](https://imagine.gsfc.nasa.gov/hst_bday/images/june-2-2019-jupiter-s-auroras.jpg), ça claque&nbsp;!
+- 📻 [Le code a changé&nbsp;: ce que les pouvoirs gagnent à tout savoir de nos vies](https://www.franceinter.fr/emissions/le-code-a-change/ce-que-les-pouvoirs-gagnent-a-tout-savoir-de-nos-vies)&nbsp;: excellent podcast avec Bernard Harcourt en invité. Numérique, surveillance, attention, exposition, police et justice prédictives…
