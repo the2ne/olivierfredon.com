@@ -28,8 +28,8 @@
         }
     
         a:link {
-            color: $light;
-            border-color: $light;
+            color: $white;
+            border-color: $white;
             @include _background-opacity($black, .2);
         }
     
