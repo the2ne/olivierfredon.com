@@ -23,7 +23,7 @@ Un débit réduit et une actualité peu exitante, voire navrante, ont précipit�
 ### Outils et histoires pour les artisans du Web
 
 - 👩‍🏫 [Initiation à HTML et CSS](https://stephaniewalter.design/fr/blog/cours-initiation-html-css/)&nbsp;: merci Stéphanie Walter
-- 🔎 <a href="https://hugogiraudel.github.io/selectors-explained/" hreflang="en">CSS selectors explained</a>&nbsp;: merci Hugo Giraudel
+- 🔎 <a href="https://hugogiraudel.github.io/selectors-explained/" hreflang="en" lang="en">CSS selectors explained</a>&nbsp;: merci Hugo Giraudel
 - 🧱 <a href="https://twitter.com/housecor/status/1243625787426844672" hreflang="en">HTML5 element flowchart</a>&nbsp;: à consulter en cas de divite aiguë
 - 🚘 <a href="https://www.autocar.co.uk/car-news/motor-shows-geneva-motor-show/honda-bucks-industry-trend-removing-touchscreen-controls" hreflang="en">UX et nouvelle Honda Jazz</a>&nbsp;: pourquoi Honda va supprimer les écrans tactiles pour les conducteurs&nbsp;?
 - 📂 [It's not a bug, it's a feature](https://twitter.com/PofMagicfingers/status/1245870805038141444)&nbsp;: quand Twitter tape sur Firefox et se fait prendre la main dans la doc technique
