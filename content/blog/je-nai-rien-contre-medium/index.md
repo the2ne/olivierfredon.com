@@ -104,7 +104,7 @@ Une fois de plus si vous avez un portfolio, un blog, ou encore une simple page h
 
 On en parlait plus tôt, protection des données, tout ça, tout ça.  
 Sérieusement, pourquoi mettre Analytics sur un site perso&nbsp;? Cela dicte-t-il votre ligne éditoriale&nbsp;? Vous utilisez vraiment ces données ou une fois de plus c'est pour flatter votre égo et briller lors des concours de grosses bip&nbsp;?  
-Et puis, on le sait bien, vous ne mettrez même pas de bandeau CNIL sur l'usage des cookies parce que c'est vilain pas beau et imbitable sur mobile, alors une fois de plus, on n'est pas à une contradiction près.
+Et puis, on le sait bien, vous ne mettrez même pas de bandeau {{< abbr title="Commission nationale de l'informatique et des libertés" text="CNIL" >}} sur l'usage des cookies parce que c'est vilain pas beau et imbitable sur mobile, alors une fois de plus, on n'est pas à une contradiction près.
 
 ## Et après&nbsp;?
 

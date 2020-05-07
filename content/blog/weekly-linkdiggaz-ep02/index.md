@@ -43,13 +43,13 @@ Vous prendrez bien une seconde salve de liens pour vous occuper, vous cultiver, 
 
 - 📰 [J'ai la rage](https://www.liberation.fr/debats/2020/03/24/j-ai-la-rage_1782912)&nbsp;: la tribune édifiante d'un psychologue à l'hôpital de Mulhouse
 - 🦠 [L'OMS sur Whatsapp](https://twitter.com/Scilabus/status/1241576008072994816)&nbsp;: le meilleur moyen de s'informer sur la coronavirus
-- 🔒 [Cartographie des outils et pratiques de protection de la vie privée](https://linc.cnil.fr/fr/une-cartographie-des-outils-et-pratiques-de-protection-de-la-vie-privee)&nbsp;: merci la CNIL
+- 🔒 [Cartographie des outils et pratiques de protection de la vie privée](https://linc.cnil.fr/fr/une-cartographie-des-outils-et-pratiques-de-protection-de-la-vie-privee)&nbsp;: merci la {{< abbr title="Commission nationale de l'informatique et des libertés" text="CNIL" >}}
 - 📝 [La liste ultime est sur Reddit](https://www.reddit.com/r/france/comments/fmbrtd/liste_des_sites_web_services_et_ressources/)&nbsp;: des heures et des heures de contenus
 
 ### bosser
 
-- 📐 <a href="https://github.com/JeremiePat/morphose" hreflang="en">Morphose par Jérémie Patonnier</a>&nbsp;: une boite à outils pour vos SVG
-- 🧰 [Des alternatives aux produits des GAFAM](https://francoischarlet.ch/2020/covid19-liste-non-exhaustive-alternatives-produits-gafam/)&nbsp;: c'est le moment ou jamais de switcher
+- 📐 <a href="https://github.com/JeremiePat/morphose" hreflang="en">Morphose par Jérémie Patonnier</a>&nbsp;: une boite à outils pour vos {{< abbr title="Scalable Vector Graphics" text="SVG" >}}
+- 🧰 [Des alternatives aux produits des {{< abbr title="Google Amazon Facebook Apple Microsoft" text="GAFAM" >}}](https://francoischarlet.ch/2020/covid19-liste-non-exhaustive-alternatives-produits-gafam/)&nbsp;: c'est le moment ou jamais de switcher
 - 💻 [Réunion et télétravail](https://nota-bene.org/Telereunion-quelques-conseils)&nbsp;: les conseils avisés de Nota-bene
 
 ### garder la forme
