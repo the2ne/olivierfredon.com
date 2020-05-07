@@ -1,16 +1,14 @@
 ---
 title: "Un jour, une galette : sélection de vinyles chaque week-end"
-description: ""
+description: "Tous les samedis et dimanches je vous propose de découvrir un album au travers d'une galette vinyle"
 
-date: 2020-05-06T11:09:21+01:00
-publishdate: 2020-05-06T11:09:21+01:00
+date: 2020-05-07T11:09:21+01:00
+publishdate: 2020-05-07T11:09:21+01:00
 
 tags: ["musique", "vinyle"]
 categories: ["musique"]
 
 img: "galettes.jpg"
-
-draft: true
 ---
 
 {{< figure class="big-picture" figcaption="Quelques galettes vinyle" >}}
