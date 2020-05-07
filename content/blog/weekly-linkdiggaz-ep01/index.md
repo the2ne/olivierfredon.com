@@ -1,5 +1,5 @@
 ---
-title: "Weekly Linkdiggaz Ep.01"
+title: "Weekly Links Ep.01 - Nouvelle rubrique : partage de ma veille hebdomadaire"
 description: "Une décharge de liens hebdomadaire, voilà ce qui vous attend. Que ce soit pour passer le temps, se cultiver, nourrir ses envies, s'aérer l'esprit, prendre de la hauteur ou tomber en dépression, c'est selon l'arrivage et selon l'humeur."
 date: 2020-03-21T11:09:20+01:00
 publishdate: 2020-03-21T11:09:20+01:00
@@ -10,11 +10,11 @@ categories: ["Web"]
 img: "ep-01.gif"
 ---
 
-{{< figure class="big-picture" figcaption="Weekly linkdiggaz Ep.01" >}}
-  {{< img src="ep-01.gif" alt="Weekly linkdiggaz Ep.01" >}}
+{{< figure class="big-picture" figcaption="Weekly Links" >}}
+  {{< img src="ep-01.gif" alt="Weekly Linkdiggaz Ep.01" >}}
 {{< /figure >}}
 
-# Weekly linkdiggaz Ep.01
+# Weekly Links épisode 01
 
 Inutile de préciser le contexte, un simple coup d'oeil sur la date en bas de page devrait suffire.  
 Une décharge de liens hebdomadaire, voilà ce qui vous attend. Que ce soit pour passer le temps, se cultiver, nourrir ses envies, s'aérer l'esprit, prendre de la hauteur ou tomber en dépression, c'est selon l'arrivage et selon l'humeur.

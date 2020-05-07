@@ -1,5 +1,5 @@
 ---
-title: "Weekly Linkdiggaz Ep.05"
+title: "Weekly Links Ep.05 - Sobriété numérique, éco-conception et évasion"
 description: "Web et éco-conception : CSS, images, vidéos et contenus. La sobriété s'impose."
 
 date: 2020-04-19T11:08:54+01:00
@@ -9,7 +9,7 @@ tags: ["www", "links"]
 categories: ["Web"]
 ---
 
-# Weekly linkdiggaz Ep.05
+# Weekly Links épisode 05
 
 ## Sobriété sera le maître mot de la semaine
 

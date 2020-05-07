@@ -1,5 +1,5 @@
 ---
-title: "Weekly Linkdiggaz Ep.07"
+title: "Weekly Links Ep.07 - Perspective de l'après pour l'escalade et toujours un peu de conception Web"
 description: "Dernière ligne droite et après ? Perspective d'un avenir partagé entre escalade et conception Web. Tout comme avant, sauf que ce sera après."
 
 date: 2020-05-03T11:08:53+01:00
@@ -9,7 +9,7 @@ tags: ["www", "links"]
 categories: ["Web"]
 ---
 
-# Weekly Linkdiggaz Ep.07
+# Weekly Links épisode 07
 
 ## Dernière ligne droite et après&nbsp;?
 

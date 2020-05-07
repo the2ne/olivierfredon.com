@@ -1,5 +1,5 @@
 ---
-title: "Weekly Linkdiggaz Ep.02"
+title: "Weekly Links Ep.02 - s'occuper en confinement : escalade, coloriage, musique et lecture"
 description: "Vous prendrez bien une seconde salve de liens pour vous occuper, vous cultiver, vous en mettre plein les mirettes ou plein les esgourdes, voire les deux."
 date: 2020-03-28T11:21:21+01:00
 publishdate: 2020-03-28T11:09:49+01:00
@@ -10,11 +10,11 @@ categories: ["Web"]
 img: "ep-02.gif"
 ---
 
-{{< figure class="big-picture" figcaption="Weekly linkdiggaz Ep.02" >}}
-  {{< img src="ep-02.gif" alt="Weekly linkdiggaz Ep.02" >}}
+{{< figure class="big-picture" figcaption="Weekly Links" >}}
+  {{< img src="ep-02.gif" alt="Weekly Linkdiggaz Ep.02" >}}
 {{< /figure >}}
 
-# Weekly linkdiggaz Ep.02
+# Weekly Links épisode 02
 
 Vous prendrez bien une seconde salve de liens pour vous occuper, vous cultiver, vous en mettre plein les mirettes ou plein les esgourdes, voire les deux.
 

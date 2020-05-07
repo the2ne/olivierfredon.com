@@ -1,5 +1,5 @@
 ---
-title: "Weekly Linkdiggaz Ep.06"
+title: "Weekly Links Ep.06 - Conception Web, CSS, SVG, workflow, design et GAFAM "
 description: "CSS, SVG, workflow, design et GAFAM. Cette semaine une sélection d'articles pour parfaire son anglais tout en apprenant des choses sur son propre métier"
 
 date: 2020-04-26T11:10:54+01:00
@@ -9,7 +9,7 @@ tags: ["www", "links"]
 categories: ["Web"]
 ---
 
-# Weekly linkdiggaz Ep.06
+# Weekly Links épisode 06
 
 ## Vous parlez français&nbsp;?
 

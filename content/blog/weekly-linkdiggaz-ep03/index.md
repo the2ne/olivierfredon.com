@@ -1,6 +1,6 @@
 ---
-title: "Weekly Linkdiggaz Ep.03"
-description: ""
+title: "Weekly Links Ep.03 - Conception Web les bases de HTML et CSS, mais aussi des images et de la lecture"
+description: "Outils et histoires pour les artisans du Web, actualité en perspective pour nourrir les neuronnes, plaisirs des yeux pour les curieux et de quoi combler les grimpeurs en manque"
 date: 2020-04-05T11:09:56+01:00
 publishdate: 2020-04-04T11:21:00+01:00
 
@@ -10,11 +10,11 @@ categories: ["Web"]
 img: "ep-03.gif"
 ---
 
-{{< figure class="big-picture" figcaption="Weekly linkdiggaz Ep.03" >}}
-  {{< img src="ep-03.gif" alt="Weekly linkdiggaz Ep.03" >}}
+{{< figure class="big-picture" figcaption="Weekly Links" >}}
+  {{< img src="ep-03.gif" alt="Weekly Linkdiggaz Ep.03" >}}
 {{< /figure >}}
 
-# Weekly linkdiggaz Ep.03
+# Weekly Links épisode 03
 
 Un débit réduit et une actualité peu exitante, voire navrante, ont précipité une distanciation numérique.
 

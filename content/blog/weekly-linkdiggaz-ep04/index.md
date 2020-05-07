@@ -1,5 +1,5 @@
 ---
-title: "Weekly Linkdiggaz Ep.04"
+title: "Weekly Links Ep.04 - Responsive Web Design, Mobile-first, hiérarchisation... et distractions"
 description: "Votre ration de liens pour cette semaine. Il y en a pour tout le monde : travailleurs du Web, lecteurs, collectionneurs d'images, geeks, mélomanes ou sportifs"
 date: 2020-04-12T11:12:05+01:00
 publishdate: 2020-04-12T11:12:05+01:00
@@ -10,11 +10,11 @@ categories: ["Web"]
 img: "ep-04.gif"
 ---
 
-{{< figure class="big-picture" figcaption="Weekly linkdiggaz Ep.04" >}}
-  {{< img src="ep-04.gif" alt="Weekly linkdiggaz Ep.04" >}}
+{{< figure class="big-picture" figcaption="Weekly Links" >}}
+  {{< img src="ep-04.gif" alt="Weekly Linkdiggaz Ep.04" >}}
 {{< /figure >}}
 
-# Weekly linkdiggaz Ep.04
+# Weekly Links épisode 04
 
 Vous devriez commencer à connaître le principe. Alors voici votre ration de liens pour cette nouvelle semaine et vous savez quoi&nbsp;?
 
