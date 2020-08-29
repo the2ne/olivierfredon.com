@@ -32,6 +32,12 @@
     margin: 2em 0;
     padding: 1em 2em;
     @include _background-opacity($black, .666);
+
+    .portfolio {
+        border-bottom: 1px solid #ddc79d;
+        margin-bottom: 2em;
+        padding-bottom: 2em;
+    }
 }
 
 @media screen and (min-width: 40em) {
