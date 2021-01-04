@@ -8,6 +8,8 @@ tags: ["escalade", "data"]
 categories: ["escalade"]
 
 img: ""
+
+draft: "true"
 ---
 
 
