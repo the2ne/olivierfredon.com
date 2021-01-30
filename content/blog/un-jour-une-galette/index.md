@@ -9,6 +9,8 @@ tags: ["musique", "vinyle"]
 categories: ["musique"]
 
 img: "galettes.jpg"
+
+draft: "true"
 ---
 
 {{< figure class="big-picture" figcaption="Quelques galettes vinyle" >}}

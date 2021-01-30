@@ -8,6 +8,8 @@ tags: ["escalade", "grande voie"]
 categories: ["escalade"]
 
 img: "sommet-orlu.jpg"
+
+draft: "true"
 ---
 
 {{< figure class="big-picture" figcaption="Vue depuis le sommet de la dent d'Orlu" >}}

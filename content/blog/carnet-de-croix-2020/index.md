@@ -12,8 +12,6 @@ img: ""
 draft: "true"
 ---
 
-
-
 # Carnet de croix 2020
 
 Cette année 2020 aura été un assenceur émotionnel à bien des égards. Aussi je me garderai bien d'essayer de dresser ici une sorte de bilan des choses qui ont eu lieu ou de celles qui n'ont pu avoir lieu.  

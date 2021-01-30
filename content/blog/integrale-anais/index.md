@@ -155,7 +155,7 @@ Assoiffés, on aurait bien aimé prendre l’orage finalement, mais non. Il a d�
 
 ### 2h30 de descente
 
-C'est ce qu'annonce le topo. Saut que pour nous, c’est le temps qu’on mettra uniquement pour trouver ce maudit rappel&nbsp;!
+C'est ce qu'annonce le topo. Sauf que pour nous, c’est le temps qu’on mettra uniquement pour trouver ce maudit rappel&nbsp;!
 Complètement déshydratés, on ne devait plus vraiment être très lucides. Jérôme a même envisagé sérieusement de prendre le premier arbre venu.
 
 {{< img src="descente.jpg" alt="Chercher un relais sur un arbre au milieu de nulpart" >}}
