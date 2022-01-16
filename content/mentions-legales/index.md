@@ -11,7 +11,7 @@ publishdate: 2020-03-10T14:06:00+01:00
 
 ### Olivier Fredon
 
-- Lieu-dit Peyrepont - 47150 Saint Aubin
+- 2823 Route de Rouet - 47150 Saint Aubin
 - E-mail&nbsp;: contact@olivierfredon.com
 - Téléphone&nbsp;: +33&nbsp;(0)6&nbsp;81&nbsp;22&nbsp;89&nbsp;36
 - Directeur de la publication&nbsp;: Olivier Fredon
