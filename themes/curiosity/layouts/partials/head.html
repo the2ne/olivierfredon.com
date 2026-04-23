@@ -15,16 +15,13 @@
         {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
     {{ end -}}
     
-    {{ if .Site.IsServer }}
-    {{ $style := resources.Get "scss/core.scss" | toCSS (dict "targetPath" "css/style.css" "enableSourceMap" true) }}
+    {{ if hugo.IsServer }}
+    {{ $style := resources.Get "scss/core.scss" | css.Sass (dict "targetPath" "css/style.css" "enableSourceMap" true) }}
     <link rel="stylesheet" href="{{ ($style).RelPermalink }}">
     {{ else }}
-    {{ $style := resources.Get "scss/core.scss" | toCSS (dict "targetPath" "css/style.css" "enableSourceMap" false) }}
+    {{ $style := resources.Get "scss/core.scss" | css.Sass (dict "targetPath" "css/style.css" "enableSourceMap" false) }}
     <link rel="stylesheet" href="{{ ($style | minify | fingerprint).RelPermalink }}">
     {{ end }}
-    
-    <link href="https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap" rel="stylesheet">
-
     
     {{ partial "metas" . }}
 </head>

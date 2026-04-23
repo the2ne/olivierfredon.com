@@ -1,11 +1,11 @@
 {
-    "@context": "http://schema.org",
+    "@context": "https://schema.org",
     "@type": "Article",
     "mainEntityOfPage": {
         "@type": "WebPage",
         "@id": "{{ .Permalink | safeHTML}}"
     },
-    "headline": "{{ .Title | safeHTML}} }}",
+    "headline": "{{ .Title | safeHTML }}",
     "image": {
         "@type": "ImageObject",
         "url": "{{ if .Params.Img }}{{ .Permalink }}{{ .Params.Img }}{{ else }}{{ .Site.BaseURL }}{{ .Site.Params.logo | safeHTML }}{{ end }}"

@@ -1,13 +1,7 @@
 
-<!-- Twitter Card -->
-<meta name="twitter:card" content="summary">
-<meta name="twitter:site" content="@the2ne">
-<meta name="twitter:title" content="{{ .Title | safeHTML }}">
-<meta name="twitter:description" content="{{ .Description | safeHTML }}">
-<meta name="twitter:image" content="{{ if .Params.Img }}{{ .Permalink }}{{ .Params.Img }}{{ else }}{{ .Site.BaseURL }}{{ .Site.Params.logo | safeHTML }}{{ end }}">
 
 <!-- Open Graph -->
-<meta property="og:locale:locale" content="fr_FR">
+<meta property="og:locale" content="fr_FR">
 <meta property="og:type" content="{{ if .IsHome }}website{{ else }}article{{ end }}">
 <meta property="og:title" content="{{ .Title | safeHTML }}">
 <meta property="og:description" content="{{ .Description | safeHTML }}">

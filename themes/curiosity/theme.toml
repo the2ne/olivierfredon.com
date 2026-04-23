@@ -4,7 +4,7 @@ licenselink = "https://github.com/the2ne/olivierfredon.com/blob/master/LICENSE.m
 description = "Hugo theme for Olivier Fredon personal website"
 homepage = "http://www.olivierfredon.com"
 tags = ["blog", "portfolio"]
-min_version = 0.17
+min_version = 0.128
 
 [author]
   name = "Olivier Fredon"
