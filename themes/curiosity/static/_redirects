@@ -1,5 +1,6 @@
 # Redirect default Netlify subdomain to primary domain
 https://olivierfredon.netlify.com/* https://www.olivierfredon.com/:splat 301!
+https://olivierfredon.netlify.app/* https://www.olivierfredon.com/:splat 301!
 
 # Redirect old content
 /je-nai-rien-contre-medium /blog/je-nai-rien-contre-medium/ 301!
