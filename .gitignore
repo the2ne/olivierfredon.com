@@ -3,6 +3,10 @@
 /public
 /resources/_gen
 
+### Claude Code ###
+CLAUDE.md
+.claude/
+
 ### Node ###
 # Logs
 logs
