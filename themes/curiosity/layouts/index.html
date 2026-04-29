@@ -1,8 +1,10 @@
 {{ partial "head" . }}
 
 <body class="wrapper home">
+    {{ partial "skip-link" . }}
     {{ partial "header" . }}
     {{ partial "navigation" . }}
+    <main id="main-content">
     <article class="content" itemscope itemtype="http://schema.org/Person">
         <h1 itemprop="name"><span itemprop="givenName">Olivier</span> <span itemprop="familyName">Fredon</span></h1>
         <h2 itemprop="jobTitle">Designer et concepteur Web</h2>
@@ -31,8 +33,7 @@
         <meta itemprop="additionalName" content="the2ne">
         <meta itemprop="gender" content="male">
     </article>
-    
-
+    </main>
 
     {{ partial "footer" . }}
 </body>

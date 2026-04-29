@@ -25,6 +25,9 @@ enableInlineShortcodes = true
     url = "mailto:contact@olivierfredon.com"
     weight = 2
 
+[minify]
+  minifyOutput = true
+
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]

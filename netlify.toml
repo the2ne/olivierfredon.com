@@ -32,3 +32,24 @@ HUGO_VERSION = "0.160.1"
 
 [context.next.environment]
 HUGO_ENABLEGITINFO = "true"
+
+# CSS fingerprinted → cache 1 an (immuable)
+[[headers]]
+  for = "/css/*"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"
+
+# Images statiques → cache 1 semaine
+[[headers]]
+  for = "/images/*"
+  [headers.values]
+    Cache-Control = "public, max-age=604800"
+
+# Sécurité → toutes les pages
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Frame-Options = "SAMEORIGIN"
+    X-Content-Type-Options = "nosniff"
+    Referrer-Policy = "strict-origin-when-cross-origin"
+    Permissions-Policy = "camera=(), microphone=(), geolocation=()"

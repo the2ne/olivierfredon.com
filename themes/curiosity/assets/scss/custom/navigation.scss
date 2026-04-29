@@ -85,10 +85,15 @@
             margin-left: .5em
         }
         
+        a {
+            display: inline-block;
+            line-height: 0;
+        }
+
         .svg {
             fill-rule: evenodd;
             width: 1.5em;
-            height: 100%;
+            height: 1.5em;
         }
         
 
@@ -117,8 +122,15 @@
 
     .legals {
         font-size: $fontSmall;
-        
+
         a:link { color: $light; }
         a:hover { color: $contrast; }
+    }
+}
+
+@media (prefers-reduced-motion: reduce) {
+    .navbar > * a,
+    .links a .svg {
+        transition: none;
     }
 }

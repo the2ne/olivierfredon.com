@@ -1,14 +1,17 @@
 {{ partial "head" . }}
 
 <body class="wrapper list">
+    {{ partial "skip-link" . }}
     {{ partial "header" . }}
     {{ partial "navigation" . }}
+    <main id="main-content">
     <article class="content">
         {{ .Content }}
         {{ range .Pages }}
             {{ .Render "summary"}}
         {{ end }}
     </article>
+    </main>
     {{ partial "footer" . }}
 </body>
 </html>

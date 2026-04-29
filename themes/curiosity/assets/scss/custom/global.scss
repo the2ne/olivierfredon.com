@@ -2,8 +2,6 @@
 /// Global rules
 ////
 
-@-ms-viewport { width: device-width; }
-
 * {
     @include _border-box();
     &:after, &:before {
@@ -11,28 +9,40 @@
     }
 }
 
-img { -ms-interpolation-mode: bicubic; }
-
-// Fix for Android
-body {
-    -webkit-animation: bugfix infinite 1s;
-}
-
-@-webkit-keyframes bugfix {
-    from { padding: 0; }
-    to { padding: 0; }
-}
-
 // Helpers
 
 .visua11y-hidden {
     border: 0;
-    clip: rect(1px 1px 1px 1px); /* for Internet Explorer */
     clip: rect(1px, 1px, 1px, 1px);
-    height: 1px; width: 1px;
-    margin: -1px; padding: 0;
-    position: absolute;
+    height: 1px;
+    margin: -1px;
     overflow: hidden;
+    padding: 0;
+    position: absolute;
+    width: 1px;
+    white-space: nowrap;
+}
+
+.skip-link {
+    @extend .visua11y-hidden;
+    &:focus {
+        clip: auto;
+        height: auto;
+        margin: 0;
+        overflow: visible;
+        position: fixed;
+        top: 1em;
+        left: 1em;
+        width: auto;
+        padding: .5em 1em;
+        background: $base;
+        color: $contrast;
+        border: 2px solid $contrast;
+        border-radius: 3px;
+        z-index: 100;
+        text-decoration: none;
+        font-weight: bold;
+    }
 }
 
 // Links

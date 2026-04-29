@@ -6,7 +6,7 @@
     <section>
         <p>{{ .Summary }}&hellip;</p>
         {{ if .Truncated }}
-        <p><a href="{{ .Permalink }}">Lire la suite</a></p>
+        <p><a href="{{ .Permalink }}" aria-label="Lire la suite : {{ .Title }}">Lire la suite</a></p>
         {{ end }}
     </section>
 </article>

@@ -1,17 +1,20 @@
 {{ partial "head" . }}
 
 <body class="wrapper blog">
+    {{ partial "skip-link" . }}
     {{ partial "header" . }}
     {{ partial "navigation" . }}
     <script type="application/ld+json">
         {{ partial "structured-data" . | safeJS }}
     </script>
+    <main id="main-content">
     <article class="content">
         {{ .Content }}
         <footer>
             <p>Article publié le {{ .PublishDate.Day }} {{ index hugo.Data.mois (printf "%d" .PublishDate.Month) }} {{ .PublishDate.Year }} et modifié le {{ .Date.Day }} {{ index hugo.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }}</p>
         </footer>
     </article>
+    </main>
     {{ partial "footer" . }}
 </body>
 </html>
