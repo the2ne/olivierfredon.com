@@ -1,5 +1,5 @@
 baseurl = "https://www.olivierfredon.com/"
-title = "Olivier Fredon - Graphiste, Web designer et intégrateur freelance basé entre Agen et Villeneuve-sur-Lot (Lot-et-Garonne 47)"
+title = "Olivier Fredon | Consultant design et production email | Co-dirigeant de Badsender | Référent UX & Accessibilité"
 languageCode = "fr"
 theme = "curiosity"
 
@@ -9,7 +9,7 @@ enableInlineShortcodes = true
 [params]
     author = "Olivier Fredon"
     pseudo = "the2ne"
-    description = "Olivier Fredon - Designer et concepteur Web freelance: communication, graphisme Print, Web & UI Design, intégration, gestion de projet. Basé dans le Lot-et-Garonne (47) entre Agen et Villeneuve-sur-Lot."
+    description = "Olivier Fredon, co-dirigeant de Badsender. Consultant en design et production email : Design Systems, intégration, formation. Référent UX & accessibilité."
     logo = "images/logo.jpg"
 
 [taxonomies]
