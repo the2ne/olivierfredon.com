@@ -39,6 +39,12 @@ HUGO_ENABLEGITINFO = "true"
   [headers.values]
     Cache-Control = "public, max-age=31536000, immutable"
 
+# Fonts auto-hébergées → cache 1 an (immuable)
+[[headers]]
+  for = "/fonts/*"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"
+
 # Images statiques → cache 1 semaine
 [[headers]]
   for = "/images/*"

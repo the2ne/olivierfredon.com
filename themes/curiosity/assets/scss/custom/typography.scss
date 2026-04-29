@@ -24,14 +24,19 @@ h1, .h1 {
 }
 
 h2, .h2 {
-    font-size: ($fontSize*1.556)/1.125; //eq 28px
+    font-size: ($fontSize*1.778)/1.125; //eq 32px
     font-weight: normal;
     margin-bottom: 1em;
     margin-top: 0
 }
 
 h3, .h3 {
-    font-size: ($fontSize*1.333)/1.125; //eq 24px
+    font-size: ($fontSize*1.556)/1.125; //eq 28px
     font-weight: normal;
     color: $contrast;
+}
+
+h4, .h4 {
+    font-size: ($fontSize*1.222)/1.125; //eq 22px
+    font-weight: normal;
 }
